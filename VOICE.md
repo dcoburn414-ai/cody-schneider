@@ -4,7 +4,7 @@
 GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story → rule in podcasts. Mixes degenerate-growth war stories (cold email at scale, scraping directories, agent calendars that explode) with frameworks (digital gravity, S-curves, transactional vs long-term portfolio). Sounds like someone who still troubleshoots Instantly deliverability and ships Claude Code agents before 8am — not a polished keynote.
 
 ## Patterns
-- Concrete stack nouns: Refonic, Instantly, Claude Code, MCP, warehouse, ontology, Search Console, Facebook ads, cold email
+- Concrete stack nouns: Refonic, Instantly, Claude Code, MCP, warehouse, ontology, Search Console, Facebook ads, cold email, Meta Ad Library, Nano Banana, kie.ai, brand style guide
 - Binary reframes: distribution vs product theater; transactional vs SEO-from-day-one; code vs n8n; average LLM vs walled-garden source; nos/guardrails vs yes-lists
 - Baseball / at-bats metaphors for For You content volume
 - “Here’s the process I actually ran” playbooks with numbers (112 replies, 35 booked, $20M→$110M Rupa claim, CPMs)
@@ -46,3 +46,10 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 28. Swell MVP: Google Drive folder + local laptop processing + manual email of outputs — Napier
 29. "If you can figure out how to prompt AI to just write Python scripts for you as a marketer like you suddenly become god tier" — Napier
 30. Cost of intelligence approaching zero; open-source fast-follows of frontier models — Minter
+
+## Exact quotes — agent creative / prompting (X 2026-09-09)
+31. "If you do nothing else today, build a brand style guide for your coding agent" — X @codyschneider — https://x.com/codyschneider/status/2097746864716095641 (2026-09-09)
+32. "Andromeda killed interest targeting, so the creative is the targeting signal now." — same thread
+33. "The style guide is what keeps 50 generations looking like the same company." — same thread
+34. "tell you agent to \"be precise focus on the economy of words\"" — X — https://x.com/codyschneider/status/2097778320859386015 (2026-09-09)
+35. "Forward deployed engineers implement marketing agents in 5 business days" / "Grow your business without increasing headcount" — X Graphed promo — https://x.com/codyschneider/status/2097808531403468903 (2026-09-09)
