@@ -11,7 +11,7 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 ## Won't lean on average LLM outputs without human-sourced context
 - Rejects naked “write me a blog about X” as the strategy; insists on walled-garden source material (transcripts, experts, scraped SERPs/reports). (Napier)
 
-## Won't put long-horizon SEO first when the company can't eat next month
+## Won't put long-horizon SEO first when the company can’t eat next month
 - Early stage: transactional channels (paid, cold email/DMs) before SEO-as-portfolio; long-term channels after short-term flywheels are feeding you. (START)
 
 ## Won't prefer brittle no-code workflow stacks when code agents iterate faster
@@ -31,3 +31,6 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 
 ## Won't teach via course-collecting over practice
 - Aspiring marketers: ship a blog, traffic, and a sale; trial-by-fire; info is free on YouTube — be a practitioner. (Napier)
+
+## Won't run high-volume AI creative without a brand style guide
+- Without a short identity doc pointed at the generator, 50 ads/week drift (fonts, logo sizes, backgrounds) and the fix loop costs more than designing by hand — style guide is the input that keeps generations on-brand. (X 2026-09-09 brand style guide thread)
