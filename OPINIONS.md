@@ -15,7 +15,13 @@ Operator opinions distilled from Cody’s labeled public interviews (Napier/Swel
 - Prefers code over brittle no-code workflow theater for malleable GTM systems (“friends don’t let friends do n8n” — Open Market). Ship fixes from feedback in hours.
 - Willing to run messy agent experiments (podcast booking agent: 2k outreach → 112 positives → 35 booked; agent bought books, replied too fast) if EV-positive and learnable (Open Market).
 - Cost of intelligence → 0; hard problem becomes choosing the *right* thing to build under token abundance (Minter).
+- Graphed delivery frame: forward-deployed engineers implement marketing agents in ~5 business days; grow without increasing headcount via virtual employees / agents on paid ads, outbound, SEO with pipeline + warehouse + cloud host (X promos 2026-09-09).
 - Bottom-up AI: give ICs tools to automate hated work; share internal wins; avoid token-quota theater and blanket “AI transformation” mandates (Minter).
+
+## Paid creative / brand systems for agents
+- After Meta Andromeda, interest targeting is dead; creative *is* the targeting signal — you need high volume (e.g. ~50 ads/week across angles/personas), not hand-design theater (X note_tweet 2026-09-09).
+- Before generating ads/landing pages/thumbnails with a coding agent, build a short brand style guide (colors/hex, fonts, logo clearspace, photo vibe, product language, never-do rules) and point the generator at it as visual identity — without it generations drift and you spend more fixing in Figma than designing (X).
+- Practical loop he runs: Meta Ad Library competitor creative still running months → Nano Banana structural reference + style guide identity → kie.ai API at 1080x1080 → paused drafts into Ads Manager via FB Marketing API (X).
 
 ## Growth loops / channels
 - Early stage: transactional marketing first (paid ads, cold email/DMs) for revenue tomorrow; delay long-horizon SEO until short-term stack feeds you (START).
