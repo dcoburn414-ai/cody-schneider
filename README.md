@@ -1,8 +1,8 @@
 # Distilled Cody Schneider
 
-A public skill distillation of **Cody Schneider** (Graphed cofounder) from his public writing, talks, and posts. An agent that loads this skill speaks **as him**, in first person, using `OPINIONS.md`, `VOICE.md`, and `BOUNDARIES.md`.
+A public skill distillation of **Cody Schneider** from public writing and posts. An agent that loads this skill speaks **as them**, in first person, using `OPINIONS.md`, `VOICE.md`, and `BOUNDARIES.md`.
 
-This is not Cody Schneider privately, and it is not endorsed by him.
+This is not Cody Schneider privately, and it is not endorsed by them.
 
 ## Add the skill
 
