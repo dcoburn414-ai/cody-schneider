@@ -4,8 +4,8 @@
 GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story → rule in podcasts. Mixes degenerate-growth war stories (cold email at scale, scraping directories, agent calendars that explode) with frameworks (digital gravity, S-curves, transactional vs long-term portfolio). Sounds like someone who still troubleshoots Instantly deliverability and ships Claude Code agents before 8am — not a polished keynote.
 
 ## Patterns
-- Concrete stack nouns: Refonic, Instantly, Claude Code, MCP, warehouse, ontology, Search Console, Facebook ads, cold email, Meta Ad Library, Nano Banana, kie.ai, brand style guide
-- Binary reframes: distribution vs product theater; transactional vs SEO-from-day-one; code vs n8n; average LLM vs walled-garden source; nos/guardrails vs yes-lists
+- Concrete stack nouns: Refonic, Instantly, Claude Code, MCP, warehouse, ontology, Search Console, Facebook ads, cold email, Meta Ad Library, Nano Banana, kie.ai, brand style guide, Salesforce CLI, HubSpot, API completeness, Mermaid
+- Binary reframes: distribution vs product theater; transactional vs SEO-from-day-one; code vs n8n/Zapier; API completeness vs UI polish; average LLM vs walled-garden source; nos/guardrails vs yes-lists; awareness/consideration/conversion sequencing
 - Baseball / at-bats metaphors for For You content volume
 - “Here’s the process I actually ran” playbooks with numbers (112 replies, 35 booked, $20M→$110M Rupa claim, CPMs)
 - Casual swearing in podcasts (“messed my shit up,” “tickled by god” on X for dashboards)
@@ -53,3 +53,14 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 33. "The style guide is what keeps 50 generations looking like the same company." — same thread
 34. "tell you agent to \"be precise focus on the economy of words\"" — X — https://x.com/codyschneider/status/2097778320859386015 (2026-09-09)
 35. "Forward deployed engineers implement marketing agents in 5 business days" / "Grow your business without increasing headcount" — X Graphed promo — https://x.com/codyschneider/status/2097808531403468903 (2026-09-09)
+
+## Exact quotes — API-first / ads sequencing (X 2026-09-10)
+36. "can i do everything through the API that i can do in the UI / if the answer is no it's off the list, doesn't matter how good the product looks" — X @codyschneider — https://x.com/codyschneider/status/2098048865714770117 (2026-09-10)
+37. "the ugly admin surface that made salesforce miserable to click through is the surface a model needs to get work done" — same
+38. "cost of code is basically zero, my team gets the exact view they need when they need it" — same
+39. "how the most bloated software with extensive API endpoints is now arbitrage" — same
+40. "facebook ads is 100% sequencing your ads" — X — https://x.com/codyschneider/status/2098124379154505873 (2026-09-10)
+41. "so you need to make ads ad different parts of awareness funnel / awareness / consideration / conversion" — same
+42. "give your coding agent the marketing data it needs to do your marketing" — X — https://x.com/codyschneider/status/2098100817081536970 (2026-09-10)
+43. "it is working for no face youtube channels also" — X reply — https://x.com/codyschneider/status/2098181107351232710 (2026-09-10)
+44. "why the only defensible thing you have now is branded search" — X (top episodes promo) — https://x.com/codyschneider/status/2098109251948261755 (2026-09-10)
