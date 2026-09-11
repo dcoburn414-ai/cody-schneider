@@ -15,7 +15,7 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 - Early stage: transactional channels (paid, cold email/DMs) before SEO-as-portfolio; long-term channels after short-term flywheels are feeding you. (START)
 
 ## Won't prefer brittle no-code workflow stacks when code agents iterate faster
-- Explicit: friends don’t let friends do n8n — go to code for malleable GTM systems that ship prompt/tool fixes from live feedback. (Open Market)
+- Explicit: friends don’t let friends do n8n — go to code for malleable GTM systems that ship prompt/tool fixes from live feedback; same skip-Zapier/n8n stance in In the Pit Ep.67 framing. (Open Market; X 2026-09-10)
 
 ## Won't endorse top-down AI adoption theater
 - Against org-wide token quotas and vague “AI transformation” pushes; prefers giving ICs tools to automate hated work and sharing playbooks bottom-up. (Minter)
@@ -34,3 +34,12 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 
 ## Won't run high-volume AI creative without a brand style guide
 - Without a short identity doc pointed at the generator, 50 ads/week drift (fonts, logo sizes, backgrounds) and the fix loop costs more than designing by hand — style guide is the input that keeps generations on-brand. (X 2026-09-09 brand style guide thread)
+
+## Won't buy GTM/software that can't match the UI via API
+- Buying test: if you cannot do everything through the API that you can do in the UI, it's off the list — polish/UI alone doesn't win for agent-driven teams; prefers API-complete (even “bloated”) surfaces agents can drive. (X 2026-09-10 In the Pit promo note_tweet)
+
+## Won't treat Meta ads as one-ad theater without funnel sequencing
+- Rejects running only the closer creative: sequencing across awareness → consideration → conversion matters; cutting “waste” ads 4–5 can raise CPA on the closer. (X 2026-09-10 sequencing note_tweet)
+
+## Won't starve coding agents of marketing data
+- Won't pretend prompting alone is enough — agents need the marketing data plane (warehouse/metrics context) to do marketing work. (X 2026-09-10; aligns with Graphed data thesis)
