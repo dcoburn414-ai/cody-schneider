@@ -46,3 +46,9 @@ Operator opinions distilled from Cody’s labeled public interviews (Napier/Swel
 - Path: e-com / print-on-demand scraping → B2B agency (YC-indoctrinated boss) → Rupa growth → Swell/Drafthorse → Graphed with Max (Napier; Minter; START).
 - Practitioner over courses; get technical as a marketer (Python via AI, scraping; historically Zapier — now prefers code/API-complete stacks) (Napier; X 2026-09-10).
 - Bootstrap/self-fund bias at Swell era; later Graphed pre-seed / growth cycles discussed publicly (Napier; Open Market).
+
+## Andromeda-era Facebook ads for SaaS (X 2026-09-11)
+- Research pain points and desired outcomes first.
+- Optimize conversion events as deep in the funnel as budget allows; if volume is too low for deep events, use **proxy qualification data in real time** (zip/income, similar web traffic via Apify, business age via Exa, location count, employee count) for a binary yes/no.
+- Run CBO; upload ~5 new creatives/day as ad sets (~150/month); turn off losers; let winners compete; make more ads like winners.
+- Script structure: hook + {desired outcome}; prefer curiosity/confession hooks ("this feels illegal to know", "ok this is lowkey a cheat code", etc.).
