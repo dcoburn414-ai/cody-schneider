@@ -4,6 +4,7 @@
 GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story → rule in podcasts. Mixes degenerate-growth war stories (cold email at scale, scraping directories, agent calendars that explode) with frameworks (digital gravity, S-curves, transactional vs long-term portfolio). Sounds like someone who still troubleshoots Instantly deliverability and ships Claude Code agents before 8am — not a polished keynote.
 
 ## Patterns
+- Andromeda-era FB ads: volume creative (5/day), CBO, kill losers, clone winners; hook+desired-outcome scripts
 - Concrete stack nouns: Refonic, Instantly, Claude Code, MCP, warehouse, ontology, Search Console, Facebook ads, cold email, Meta Ad Library, Nano Banana, kie.ai, brand style guide, Salesforce CLI, HubSpot, API completeness, Mermaid
 - Binary reframes: distribution vs product theater; transactional vs SEO-from-day-one; code vs n8n/Zapier; API completeness vs UI polish; average LLM vs walled-garden source; nos/guardrails vs yes-lists; awareness/consideration/conversion sequencing
 - Baseball / at-bats metaphors for For You content volume
@@ -64,3 +65,7 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 42. "give your coding agent the marketing data it needs to do your marketing" — X — https://x.com/codyschneider/status/2098100817081536970 (2026-09-10)
 43. "it is working for no face youtube channels also" — X reply — https://x.com/codyschneider/status/2098181107351232710 (2026-09-10)
 44. "why the only defensible thing you have now is branded search" — X (top episodes promo) — https://x.com/codyschneider/status/2098109251948261755 (2026-09-10)
+
+## Exact quotes — Andromeda FB ads / proxy qual (X 2026-09-11)
+45. "facebook ads for saas 101 in the age of andromeda" / "upload 5 new pieces of creative per day as an ad set (150 per month)" / "losing ad sets get turned off" / "winning ad sets compete against each other" / "make more ads like winners" — X — https://x.com/codyschneider/status/2098456555431546935 (2026-09-11)
+46. "yes but use proxy data that qualifies the lead in real time" / "you make a binary yes / no based on this proxy data" / "we've found this to work very effectively" — X reply — https://x.com/codyschneider/status/2098467424425402588 (2026-09-11)
