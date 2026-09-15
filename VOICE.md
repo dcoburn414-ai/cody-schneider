@@ -69,3 +69,20 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 ## Exact quotes — Andromeda FB ads / proxy qual (X 2026-09-11)
 45. "facebook ads for saas 101 in the age of andromeda" / "upload 5 new pieces of creative per day as an ad set (150 per month)" / "losing ad sets get turned off" / "winning ad sets compete against each other" / "make more ads like winners" — X — https://x.com/codyschneider/status/2098456555431546935 (2026-09-11)
 46. "yes but use proxy data that qualifies the lead in real time" / "you make a binary yes / no based on this proxy data" / "we've found this to work very effectively" — X reply — https://x.com/codyschneider/status/2098467424425402588 (2026-09-11)
+
+## Exact quotes — franchise / agents / stacks (X 2026-09-14)
+47. "we've taken their facebook ads cost per lead form $70 to $16 in 4 weeks" — https://x.com/codyschneider/status/2099483307536703513 (2026-09-14)
+48. "an agent is just code with a thinking loop with a live data stream it is making decisions on top of" — same
+49. "a marketing agent is just code with a thinking loop with a live data stream it is making decisions" — https://x.com/codyschneider/status/2099498417898532917 (2026-09-14)
+50. "we're deploying 300 AI UGC seed dance ads a month for an AI startup" / "cost per video $2.5 for 30 seconds" — https://x.com/codyschneider/status/2099513541904539695 (2026-09-14)
+51. "let go your $1600/mo video editor" / "the last 5% of timing still needs your ear" — https://x.com/codyschneider/status/2099528633828213062 (2026-09-14)
+52. "Claude Code can now run your SEO for you" / "tired of their SEO agency doing NOTHING for $60K a year" — https://x.com/codyschneider/status/2099528635224826199 (2026-09-14)
+53. "marketing agents are just code with a thinking loop, connected to a live data stream they are making decisions on" — https://x.com/codyschneider/status/2099543704314782126 (2026-09-14)
+54. "most people treat TAM like a number in a pitch deck" / "you can only answer those questions if your TAM is a database" — https://x.com/codyschneider/status/2099558800428544344 (2026-09-14)
+55. "saw you just posted for a head of growth beats hope this finds you well every single time" — same
+56. "marking is doing the compounding relentlessly" / "just consistently doing the thing to be in front of who you're selling to" — https://x.com/codyschneider/status/2099573909674713143 (2026-09-14)
+57. "you should be just guessing your leads emails" / "they aren't in a shared database" — https://x.com/codyschneider/status/2099573909804740821 (2026-09-14)
+58. "people with the most capital to deploy listen to long form or read long form" / "so long form conversations is what's left" — https://x.com/codyschneider/status/2099604097582219547 (2026-09-14)
+59. "the most valuable asset in the world that people have made is their back catalog of content" — https://x.com/codyschneider/status/2099619204991254582 (2026-09-14)
+60. "the best cold email signal is hiring" / "they wrote half your cold email for you" — https://x.com/codyschneider/status/2099634302233268607 (2026-09-14)
+61. "learning is cross location so cycles speed up" — reply — https://x.com/codyschneider/status/2099502709762379853 (2026-09-14)
