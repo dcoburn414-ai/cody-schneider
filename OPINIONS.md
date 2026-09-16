@@ -75,3 +75,21 @@ Operator opinions distilled from Cody's labeled public interviews (Napier/Swell,
 - Guess emails with an LLM (not only shared databases), cheap verify then expensive verify.
 - Compounding marketing: 100+ new ad formats/mo; remarket site-touchers everywhere; cold email site visitors + ICP monthly; 100 new articles/mo refreshed every 30 days off live data - relentlessly stay in front of buyers.
 - Capital allocators filter via long-form listen/read; AI made long-form content cheap so **long-form conversations** (podcasts hosting industry people) remain scarce; back catalogs (fireside/podcast/live) become the asset for an AI-powered media company.
+
+## Warehouse-first agent ads ops (X 2026-09-15)
+- Meta Ads MCP / marketing API share the same rate limits — broad scans, parallel agent calls, bulk changes, and retry loops exhaust quotas.
+- Fix: **warehouse for all reads/analytics**; API only for account updates (upload/on/off/budget). Same pattern for Google Ads: agent writes software + daily cron rewrite from live warehouse stream; claimed CPL $1100→$250.
+- Open-source path: **Airbyte + ClickHouse**; otherwise Graphed-style unified pipeline.
+
+## Tooling the coding agent into a growth org (X 2026-09-15)
+- Give Claude Code marketing tools end-to-end: Seed Dance 2.5/Higgsfield ads, waterfall email enrich (Findymail/Lead Magic/Apollo), Serper keyword research, Apify creator scrapes, DataForSEO link research — then it is the growth org.
+- Without unified marketing data, agent decisions are assumptions.
+
+## Lookalike UGC creative volume (X 2026-09-15)
+- Ads that **look and sound like the buyer** outperform. Stack: ElevenLabs voice + ChatGPT image of ICP + hook/outcome script → Seed Dance 2.5 (~$2.50/30s) → 50 creatives into one FB CBO/open-targeting ad set → Andromeda finds winners → prune inefficient spenders.
+
+## Implement → train → hand keys (X 2026-09-15)
+- Demand pattern: speedrun agent implementation, train the team on marketing engineering, then hand keys. Skill gap is massive vs what’s possible; budgets push AI over headcount.
+
+## Job-listing outbound engine (X 2026-09-15)
+- Apify monitors LinkedIn/Indeed for new roles matching titles → ICP filter → map decision-makers → waterfall email → Instantly cold email → agent circles leads into SVP. Extends hiring-signal outbound already on file.
