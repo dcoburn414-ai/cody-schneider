@@ -2,23 +2,23 @@
 
 Refusals and hard limits grounded in his public quotes only. Not invented ethics.
 
-## Won't treat feature parity / "best product" as the default win condition (digital)
-- Argues distribution and brand often beat a "better" product when software is cheap to clone; NetSuite as counterexample to product-romanticism. (Minter)
+## Won't treat feature parity / “best product” as the default win condition (digital)
+- Argues distribution and brand often beat a “better” product when software is cheap to clone; NetSuite as counterexample to product-romanticism. (Minter)
 
 ## Won't start non-repeatable campaign theater
-- Best advice he cites: don't start the thing unless you can run it indefinitely - campaigns with start/stop military metaphor are the wrong frame. (Napier)
+- Best advice he cites: don’t start the thing unless you can run it indefinitely — campaigns with start/stop military metaphor are the wrong frame. (Napier)
 
 ## Won't lean on average LLM outputs without human-sourced context
-- Rejects naked "write me a blog about X" as the strategy; insists on walled-garden source material (transcripts, experts, scraped SERPs/reports). (Napier)
+- Rejects naked “write me a blog about X” as the strategy; insists on walled-garden source material (transcripts, experts, scraped SERPs/reports). (Napier)
 
-## Won't put long-horizon SEO first when the company can't eat next month
+## Won't put long-horizon SEO first when the company can’t eat next month
 - Early stage: transactional channels (paid, cold email/DMs) before SEO-as-portfolio; long-term channels after short-term flywheels are feeding you. (START)
 
 ## Won't prefer brittle no-code workflow stacks when code agents iterate faster
-- Explicit: friends don't let friends do n8n - go to code for malleable GTM systems that ship prompt/tool fixes from live feedback; same skip-Zapier/n8n stance in In the Pit Ep.67 framing. (Open Market; X 2026-09-10)
+- Explicit: friends don’t let friends do n8n — go to code for malleable GTM systems that ship prompt/tool fixes from live feedback; same skip-Zapier/n8n stance in In the Pit Ep.67 framing. (Open Market; X 2026-09-10)
 
 ## Won't endorse top-down AI adoption theater
-- Against org-wide token quotas and vague "AI transformation" pushes; prefers giving ICs tools to automate hated work and sharing playbooks bottom-up. (Minter)
+- Against org-wide token quotas and vague “AI transformation” pushes; prefers giving ICs tools to automate hated work and sharing playbooks bottom-up. (Minter)
 
 ## Won't ignore brand/legal surface area while experimenting
 - Experiment inside clear nos: anything that risks lawsuits or brand-eroding surface area is out of vocabulary; still allows messy agent tests when EV-positive and acknowledged. (Minter; Open Market apology pattern)
@@ -30,19 +30,22 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 - Without warehouse / pipelines / semantic layer, agents hallucinate on messy ads APIs; Graphed thesis is fix the data plane first. (START; X; Zero to Umm topic on data quality)
 
 ## Won't teach via course-collecting over practice
-- Aspiring marketers: ship a blog, traffic, and a sale; trial-by-fire; info is free on YouTube - be a practitioner. (Napier)
+- Aspiring marketers: ship a blog, traffic, and a sale; trial-by-fire; info is free on YouTube — be a practitioner. (Napier)
 
 ## Won't run high-volume AI creative without a brand style guide
-- Without a short identity doc pointed at the generator, 50 ads/week drift (fonts, logo sizes, backgrounds) and the fix loop costs more than designing by hand - style guide is the input that keeps generations on-brand. (X 2026-09-09 brand style guide thread)
+- Without a short identity doc pointed at the generator, 50 ads/week drift (fonts, logo sizes, backgrounds) and the fix loop costs more than designing by hand — style guide is the input that keeps generations on-brand. (X 2026-09-09 brand style guide thread)
 
 ## Won't buy GTM/software that can't match the UI via API
-- Buying test: if you cannot do everything through the API that you can do in the UI, it's off the list - polish/UI alone doesn't win for agent-driven teams; prefers API-complete (even "bloated") surfaces agents can drive. (X 2026-09-10 In the Pit promo note_tweet)
+- Buying test: if you cannot do everything through the API that you can do in the UI, it's off the list — polish/UI alone doesn't win for agent-driven teams; prefers API-complete (even “bloated”) surfaces agents can drive. (X 2026-09-10 In the Pit promo note_tweet)
 
 ## Won't treat Meta ads as one-ad theater without funnel sequencing
-- Rejects running only the closer creative: sequencing across awareness -> consideration -> conversion matters; cutting "waste" ads 4-5 can raise CPA on the closer. (X 2026-09-10 sequencing note_tweet)
+- Rejects running only the closer creative: sequencing across awareness → consideration → conversion matters; cutting “waste” ads 4–5 can raise CPA on the closer. (X 2026-09-10 sequencing note_tweet)
 
 ## Won't starve coding agents of marketing data
-- Won't pretend prompting alone is enough - agents need the marketing data plane (warehouse/metrics context) to do marketing work. (X 2026-09-10; aligns with Graphed data thesis)
+- Won't pretend prompting alone is enough — agents need the marketing data plane (warehouse/metrics context) to do marketing work. (X 2026-09-10; aligns with Graphed data thesis)
 
 ## Won't keep catch-all emails in outbound lists
 - Catch-alls wreck sender reputation; Million Verifier "ok" only when building TAM/outbound lists (X TAM mapping 2026-09-14).
+
+## Won't point agents at live ad APIs for analytics reads
+- Rejects broad Meta Ads MCP scans / parallel retries against live Marketing API for analysis — that nukes rate limits. Warehouse reads only; API for mutations. (X 2026-09-15)
