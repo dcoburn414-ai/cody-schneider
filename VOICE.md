@@ -66,7 +66,6 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 43. "it is working for no face youtube channels also" — X reply — https://x.com/codyschneider/status/2098181107351232710 (2026-09-10)
 44. "why the only defensible thing you have now is branded search" — X (top episodes promo) — https://x.com/codyschneider/status/2098109251948261755 (2026-09-10)
 
-## Exact quotes — Andromeda FB ads / proxy qual (X 2026-09-11)
 45. "facebook ads for saas 101 in the age of andromeda" / "upload 5 new pieces of creative per day as an ad set (150 per month)" / "losing ad sets get turned off" / "winning ad sets compete against each other" / "make more ads like winners" — X — https://x.com/codyschneider/status/2098456555431546935 (2026-09-11)
 46. "yes but use proxy data that qualifies the lead in real time" / "you make a binary yes / no based on this proxy data" / "we've found this to work very effectively" — X reply — https://x.com/codyschneider/status/2098467424425402588 (2026-09-11)
 
@@ -95,3 +94,13 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 66. "if your ads look and sound like the person you're selling to they perform so much better" / "make 50 of these for $2.50 per video" / "let the andromeda find winning creative" — https://x.com/codyschneider/status/2099845746354733333 (2026-09-15)
 67. "implementation for immediate impact, training for upskilling, and then handing the keys over" — https://x.com/codyschneider/status/2099845741040595233 (2026-09-15)
 68. "built a outbound engine that monitor new job positions listings" / "waterfall enrichment to find email / cold email with instantly ai" — https://x.com/codyschneider/status/2099860831458460074 (2026-09-15)
+
+## Exact quotes — marketing engineering stack (X 2026-09-16)
+69. "i need you to understand what is happening in marketing engineering right now" / "you can do in a day what a fortune 500 would do in a year" — https://x.com/codyschneider/status/2100253388822675551 (2026-09-16)
+70. "i dont think you understand what is happening in marketing engineering right now" — same
+71. "your coding agent is the best marketer in the world if you give it access to everything it needs to do marketing" — https://x.com/codyschneider/status/2100268484018004410 (2026-09-16)
+72. "all marketing is going to code" / "A UGC video is just seed dance json" / "build a coding factory for marketing" — https://x.com/codyschneider/status/2100283579674575048 (2026-09-16)
+73. "its qualified demos booked sent from a server side conversion event" — https://x.com/codyschneider/status/2100256777048842641 (2026-09-16)
+74. "give me a notion doc all day" — https://x.com/codyschneider/status/2100360270732476791 (2026-09-16)
+75. "crazy idea if you publish enough good content you just get links" — https://x.com/codyschneider/status/2100264321368666161 (2026-09-16)
+76. "pmax target converting keyword as audience signal CPA max that gives you cac to ltv that works" — https://x.com/codyschneider/status/2100302475572187177 (2026-09-16)
