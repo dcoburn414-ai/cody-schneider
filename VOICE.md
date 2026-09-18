@@ -104,3 +104,16 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 74. "give me a notion doc all day" — https://x.com/codyschneider/status/2100360270732476791 (2026-09-16)
 75. "crazy idea if you publish enough good content you just get links" — https://x.com/codyschneider/status/2100264321368666161 (2026-09-16)
 76. "pmax target converting keyword as audience signal CPA max that gives you cac to ltv that works" — https://x.com/codyschneider/status/2100302475572187177 (2026-09-16)
+
+77. "for the last 4 weeks we've been managing google ads for a local service business for free / they only pay us when we get them leads" — https://x.com/codyschneider/status/2100721469672022387 (2026-09-17)
+78. "ad spend is funded by them / google account is owned by them / we just do the media buying" — https://x.com/codyschneider/status/2100741493350957228 (2026-09-18)
+79. "because my labor is $0" — https://x.com/codyschneider/status/2100822312807498069 (2026-09-18)
+80. "you can make podcasts that are totally AI and have people listen to them if they content is good enough" — https://x.com/codyschneider/status/2100676194253312488 (2026-09-17)
+81. "how to send 250,000 linkedin DMs per month" / "LinkedIn gets 3x the reply rate of cold email" — https://x.com/codyschneider/status/2100661095685915041 (2026-09-17)
+82. "Conversion action instrumentation used to be the most important thing for you to do on day one for growth engineering" — https://x.com/codyschneider/status/2100645989828669785 (2026-09-17)
+83. "Without conversion events Google Ads and Meta have no idea who to optimize for so you're paying them to guess" — same
+84. "Claude = Brave Search / Gemini / AI Overviews = Google / ChatGPT = a hot mess of bing + its own index + google + other feeds" — https://x.com/codyschneider/status/2100624716839158020 (2026-09-17)
+85. "if you've been treating your Bing rankings as your ChatGPT rankings, they're not the same thing." — Labrador note — https://x.com/codyschneider/status/2100630871002820973 (2026-09-17)
+86. "just pick a business vertical … every one of these can easily be a $80k MRR business" — https://x.com/codyschneider/status/2100600670982177214 (2026-09-17)
+87. "nobody wants you to know this but you can just cold email a 100,000 people in a month who are your target customer and just listed a job posting" — https://x.com/codyschneider/status/2100585583969988751 (2026-09-17)
+88. "if you do only one thing today give you claude or codex real-time marketing data / without it they are hallucinating" — https://x.com/codyschneider/status/2100570502448181366 (2026-09-17)
