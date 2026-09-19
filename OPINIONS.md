@@ -121,3 +121,13 @@ Operator opinions distilled from Cody’s labeled public interviews (Napier/Swel
 - Pick a vertical (tattoo removal, med spas, etc.) and ship an AI personal assistant (site, forms, chat, Maps, scheduling, calls, invoices) — frames each as easy **~$80k MRR** businesses.
 - Cold email ~100k/mo to people who **just listed a job posting** as buying-intent signal for your pain/outcome.
 - Prerequisite: give Claude/Codex **real-time unified marketing data** first or they hallucinate; solve data, then agent growth systems.
+
+## Waterfall enrichment via agent APIs (X 2026-09-18)
+- Run **waterfall enrichment** across providers (Findymail, People Data Labs, Prospeo, Leadmagic, Apollo, Leadmarina, etc.) from the coding agent, paying **per API call** instead of stacking full SaaS subscriptions — same stack for pennies / pay-as-you-go. Frames as GTM outbound unlock.
+
+## Coding agent as marketer stack (X 2026-09-18)
+- Coding agent is the best marketer **if** it has the full stack: data pipeline, warehouse, cloud server, media storage, Postgres for agents, cron, app auth, artifacts canvas, git, API gateway (enrichment/scrapers/creative tools). Without that access it cannot market; with it, treat it as the marketer.
+
+## Ad-agent cohort loop / unit economics (X 2026-09-18)
+- Case: prosumer AI — thousands of signups via finding winning creative + activation/conversion work; down-funnel ~**$200 cost per subscription** vs ~**$1000 CLV** with expansion rising weekly.
+- Ops loop: weekly **cohorts of ads**; winners influence next creative round; Facebook ad agent runs the media-buying process end-to-end.
