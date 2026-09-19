@@ -117,3 +117,9 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 86. "just pick a business vertical … every one of these can easily be a $80k MRR business" — https://x.com/codyschneider/status/2100600670982177214 (2026-09-17)
 87. "nobody wants you to know this but you can just cold email a 100,000 people in a month who are your target customer and just listed a job posting" — https://x.com/codyschneider/status/2100585583969988751 (2026-09-17)
 88. "if you do only one thing today give you claude or codex real-time marketing data / without it they are hallucinating" — https://x.com/codyschneider/status/2100570502448181366 (2026-09-17)
+
+89. "I wish I found this sooner this has changed GTM outbound for good / you can get Claude for waterfall enrichment where you only pay for API calls, not every subscription" — https://x.com/codyschneider/status/2100963086614089853 (2026-09-18)
+90. "this stack used to cost thousands of dollars per year in subscriptions / but now you can get them for pennies and pay as you go" — same
+91. "i am once again telling that your coding agent is the best marketer in the world if you give it access to everything it needs to do marketing" — https://x.com/codyschneider/status/2100947966617854057 (2026-09-18)
+92. "we've driven thousands of signups for this prosumer AI startup … cost per subscription of $200 / their CLV is $1000" — https://x.com/codyschneider/status/2100932865768714478 (2026-09-18)
+93. "every week launched cohorts of ads / winning ads influenced next round of creative / the whole media buying process handled by our facebook ad agent" — same
