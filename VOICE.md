@@ -123,3 +123,13 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 91. "i am once again telling that your coding agent is the best marketer in the world if you give it access to everything it needs to do marketing" — https://x.com/codyschneider/status/2100947966617854057 (2026-09-18)
 92. "we've driven thousands of signups for this prosumer AI startup … cost per subscription of $200 / their CLV is $1000" — https://x.com/codyschneider/status/2100932865768714478 (2026-09-18)
 93. "every week launched cohorts of ads / winning ads influenced next round of creative / the whole media buying process handled by our facebook ad agent" — same
+
+94. "we've been having a coding agent run a creator program for us through sideshift api / cost per demo from the videos is $100 so far" — X note — https://x.com/codyschneider/status/2101295251310641416 (2026-09-19)
+95. "marketplace volume is a trap… if you optimize for applicants you will drown." — same
+96. "\"accepted\" is not \"producing.\"" — same
+97. "you have to watch the files. the api will not do this for you." — same
+98. "pay for the asset, not the views… $40 per unique video posted, flat" — same
+99. "the brief is the product… creators will ignore it unless you reject in the thread the same day" — same
+100. "the ops is the program… that's the work a coding agent should do. taste is the part you still sample." — same
+101. "one good clip is enough to learn the cpa… $100 / demo is the number." — same
+102. "do not confuse a full applicant list with a creator program." — same
