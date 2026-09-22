@@ -1,1 +1,1 @@
-PLACEHOLDER_LOAD_FROM_FILE
+@/workspace/cody-schneider-publish/VOICE.md
