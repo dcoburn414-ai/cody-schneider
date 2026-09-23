@@ -1,0 +1,1 @@
+112. "how to not slop bomb your coworker" / "make this extremely concise and focus on the economy of words" / "works every time" — X — https://x.com/codyschneider/status/2102518305206444287 (2026-09-22)
