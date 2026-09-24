@@ -53,3 +53,63 @@ Operator opinions distilled from Cody’s labeled public interviews (Napier/Swel
 - Run CBO; upload ~5 new creatives/day as ad sets (~150/month); turn off losers; let winners compete; make more ads like winners.
 - Script structure: hook + {desired outcome}; prefer curiosity/confession hooks ("this feels illegal to know", "ok this is lowkey a cheat code", etc.).
 
+## Franchise / location-level ad agents (X 2026-09-14)
+- Franchise case: 200+ locations; Facebook CPL from ~$70 → ~$16 in 4 weeks via Apify category-ad scrape + Gemini multimodal analysis into Postgres the coding agent can query; cohorts of 5 ads every 3 days as learning cycles; then turn the process into an agent.
+- Agent definition: **code with a thinking loop on a live data stream** making decisions (repeated as the core definition).
+- Run campaigns **per location** with dedicated budget/outcomes; learning can be cross-location so cycles speed up (reply).
+
+## Marketing-engineering stacks (X 2026-09-14)
+- Marketing agents need infra: data pipeline, warehouse, cloud server, media storage, Postgres, cron, app auth, shareable links, git multiplayer, API gateway (Apify, Apollo, Seed Dance, etc.).
+- Channel playbooks he publishes for coding agents: Google Ads (keyword families / deep conversion / LLM search-intent negatives), Facebook (desired-outcomes scrape → statics+UGC → Advantage+ CBO deep event ~50/week + creative volume), LinkedIn (remix creator content → thought-leadership ads → engagers to outbound), SEO (bottom-funnel X vs Y / alternative / review; refresh monthly; AI search ≈ SEO on p1–3), link building (better version of heavily-linked stale content + outbound), cold outbound (LinkedIn engagers → waterfall enrichment → Million Verifier → Instantly; ~10k emails/~$100 via hypertide-class inbox infra).
+- **300 AI UGC Seed Dance ads/mo** pipeline: FB Ad Library desired outcomes + case-study corpus → hook+outcome scripts → Seed Audio 1.0 → Seed Dance 2.5 (~$2.50/30s) → FB Marketing API upload; kill losers, promote winners, winners seed next rounds.
+- DaVinci Resolve Studio MCP + GPT-6 Astra / Codex can replace a ~$1600/mo editor for a lot of cuts (transcribe, tracks, dead-air, b-roll, titles, grade, loudness, 4k render); last ~5% timing still needs a human ear; save prompts as a reusable skill.
+- Claude Code on GSC+GA4 in a warehouse: page-2 keyword wins, refresh/title fixes, conversion mapping, Monday Slack WoW, orphan/money-page link gaps — framed vs ~$60k/yr SEO agencies that do nothing.
+
+## TAM as a living database (X 2026-09-14)
+- TAM is not a pitch-deck number — it's a **domain-keyed database** with enrichment, ICP fit scores, people, and an **event log** (funding, job posts, BuiltWith changes, LinkedIn engagers, pricing visits) instead of overwriting rows.
+- Nightly cron: new signal + fit >7 → Instantly with the signal as the first line ("saw you just posted for a head of growth" beats "hope this finds you well").
+- Catch-alls wreck sender reputation — keep only Million Verifier "ok".
+
+## Outbound signals / compounding (X 2026-09-14)
+- **Best cold email signal is hiring**: job post = budget + problem + tools in public; watch titles, Claude-read descriptions, enrich buyer (not recruiter), Instantly with post-derived first lines; re-check at 30 days if still open.
+- Guess emails with an LLM (not only shared databases), cheap verify then expensive verify.
+- Compounding marketing: 100+ new ad formats/mo; remarket site-touchers everywhere; cold email site visitors + ICP monthly; 100 new articles/mo refreshed every 30 days off live data — relentlessly stay in front of buyers.
+- Capital allocators filter via long-form listen/read; AI made long-form content cheap so **long-form conversations** (podcasts hosting industry people) remain scarce; back catalogs (fireside/podcast/live) become the asset for an AI-powered media company.
+
+## Warehouse-first agent ads ops (X 2026-09-15)
+- Meta Ads MCP / marketing API share the same rate limits — broad scans, parallel agent calls, bulk changes, and retry loops exhaust quotas.
+- Fix: **warehouse for all reads/analytics**; API only for account updates (upload/on/off/budget). Same pattern for Google Ads: agent writes software + daily cron rewrite from live warehouse stream; claimed CPL $1100→$250.
+- Open-source path: **Airbyte + ClickHouse**; otherwise Graphed-style unified pipeline.
+
+## Tooling the coding agent into a growth org (X 2026-09-15)
+- Give Claude Code marketing tools end-to-end: Seed Dance 2.5/Higgsfield ads, waterfall email enrich (Findymail/Lead Magic/Apollo), Serper keyword research, Apify creator scrapes, DataForSEO link research — then it is the growth org.
+- Without unified marketing data, agent decisions are assumptions.
+
+## Lookalike UGC creative volume (X 2026-09-15)
+- Ads that **look and sound like the buyer** outperform. Stack: ElevenLabs voice + ChatGPT image of ICP + hook/outcome script → Seed Dance 2.5 (~$2.50/30s) → 50 creatives into one FB CBO/open-targeting ad set → Andromeda finds winners → prune inefficient spenders.
+
+## Implement → train → hand keys (X 2026-09-15)
+- Demand pattern: speedrun agent implementation, train the team on marketing engineering, then hand keys. Skill gap is massive vs what’s possible; budgets push AI over headcount.
+
+## Job-listing outbound engine (X 2026-09-15)
+- Apify monitors LinkedIn/Indeed for new roles matching titles → ICP filter → map decision-makers → waterfall email → Instantly cold email → agent circles leads into SVP. Extends hiring-signal outbound already on file.
+
+## Marketing engineering day-in-a-day stack (X 2026-09-16)
+- Thesis: give Claude Code/Codex a full stack (data pipeline, warehouse, cloud server, media storage, Postgres for agents, cron, auth, sharable links, git, tools API gateway) and **you can do in a day what a Fortune 500 would do in a year**.
+- Concrete daily volume he lists as now-possible: ~40 FB ads (Seed Dance 2.5), ~30 Google Ads ad groups via API, ~100 landing pages, guest posts for backlinks, podcast-host cold email → booked pods, vlog edit via Astra + DaVinci Resolve MCP, ~25 tweets across accounts, LinkedIn lead-magnet scripts.
+- **"All marketing is going to code"** / build a **coding factory for marketing**: UGC = Seed Dance JSON; static ad = ChatGPT image JSON; analytics = SQL; cold email inbox = webhook; waterfall enrichment = API calls.
+- Coding agent is the best marketer **if** it has access to everything it needs (same stack list).
+- Optimize ads to **qualified demos booked via server-side conversion events** — not junk form fills (reply clarifying CPL drops).
+- Prefers a **Notion doc over a sales deck**; SEO: publish enough good content and you just get links.
+- Light PMax tip: target converting keyword as audience signal + CPA max so CAC:LTV works.
+
+## Pay-per-lead Google Ads agent (X 2026-09-17)
+- Offer: manage Google Ads for local services **for free**; client pays only on leads (pay-per-lead). Client funds ad spend (≥$1k/mo) and owns the Google account; Graphed does media buying. Labor cost framed as $0 because the **ads agent** researches keywords, writes ads, optimizes bidding, builds landing pages, and learns from results autonomously.
+
+## AI media / LinkedIn volume GTM (X 2026-09-17)
+- Totally AI podcasts can get listeners if content is good: niche → research growing brands (Exa) → monologue script → ElevenLabs audio → Transistor API host → social/email list → ads on newsletter/podcast for your brand.
+- LinkedIn volume playbook (podcast): open profiles to skip InMail credits; Apify to find them; stack Sales Nav licenses; Fiverr licenses ~5× cheaper; target active 30–45d; calendar in first InMail; LinkedIn ~3× cold-email reply rate; power-responder lists (~9%); MCP for internal tools; Cursor+Lambda over Zapier.
+
+## Conversion instrumentation as code (X 2026-09-17)
+- Day-one growth engineering: conversion actions used to be painful UI work; now **Claude Code + GTM API + Google Ads API** scripts dataLayer events, GA4/Ads/Meta tags, enhanced conversions, publish workspace — rerunnable per site. Without conversion events, Ads/Meta optimize by guessing.
+
