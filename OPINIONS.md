@@ -78,7 +78,7 @@ Operator opinions distilled from Cody’s labeled public interviews (Napier/Swel
 
 ## Warehouse-first agent ads ops (X 2026-09-15)
 - Meta Ads MCP / marketing API share the same rate limits — broad scans, parallel agent calls, bulk changes, and retry loops exhaust quotas.
-- Fix: **warehouse for all reads/analytics**; API only for account updates (upload/on/off/budget).
+- Fix: **warehouse for all reads/analytics**; API only for account updates (upload/on/off/budget). Same pattern for Google Ads: agent writes software + daily cron rewrite from live warehouse stream; claimed CPL $1100→$250.
 - Open-source path: **Airbyte + ClickHouse**; otherwise Graphed-style unified pipeline.
 
 ## Tooling the coding agent into a growth org (X 2026-09-15)
