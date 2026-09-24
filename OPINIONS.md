@@ -130,4 +130,15 @@ Operator opinions distilled from Cody’s labeled public interviews (Napier/Swel
 
 ## Ad-agent cohort loop / unit economics (X 2026-09-18)
 - Case: prosumer AI — thousands of signups via finding winning creative + activation/conversion work; down-funnel ~**$200 cost per subscription** vs ~**$1000 CLV** with expansion rising weekly.
-- Ops loop: weekly **cohorts of ads**; winners influence next creative round; Facebook ad age
+- Ops loop: weekly **cohorts of ads**; winners influence next creative round; Facebook ad agent runs the media-buying process end-to-end.
+
+## Agent-run creator programs / SideShift (X 2026-09-19)
+- Coding agents can run creator ops end-to-end via marketplace APIs (SideShift cited): post brief, inbox, review submissions (watch files), push on-brief ads into Meta — without a creator-ops hire. Early result: **~$100 cost per demo**.
+- **Marketplace volume is a trap**: hundreds of applicants ≠ a program (523 applied → 13 accepted → 5 live). Optimize for producing creators, not applicant count.
+- Platform queues lie: applications / campaign joins / contracts can all look like progress while **zero videos** ship. "Accepted" ≠ producing.
+- **Watch the files** — API "pending" only means upload. Reject editor-screen recordings, recycled desk cuts with VO swaps; only run on-brief finished posts.
+- Connected TikTok ≠ they posted your content; campaign-tracked posts are often their old organic. Don't pay on "posts attached to campaign."
+- **Pay for the asset, not the views**: flat per unique finished video (example $40) + bonuses on hits; gating base rate on reach invites recycled caption-changed content.
+- **The brief is the product**; reject same-day in-thread with reason + reshoot ask. Agents need an explicit reject rule.
+- Ops *is* the program (scripts, "not finished," "sign the contract") — agent work; humans still sample taste.
+- One on-brief clip in the CBO is enough to learn CPA; don't wait for contracted volume to know if it works.
