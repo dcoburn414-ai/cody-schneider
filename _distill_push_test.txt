@@ -1,0 +1,1 @@
+test-path-ref-should-fail-if-literal
