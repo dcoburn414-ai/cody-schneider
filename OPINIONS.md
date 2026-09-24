@@ -142,3 +142,45 @@ Operator opinions distilled from Cody’s labeled public interviews (Napier/Swel
 - **The brief is the product**; reject same-day in-thread with reason + reshoot ask. Agents need an explicit reject rule.
 - Ops *is* the program (scripts, "not finished," "sign the contract") — agent work; humans still sample taste.
 - One on-brief clip in the CBO is enough to learn CPA; don't wait for contracted volume to know if it works.
+
+## Vertical AI assistants demand surge (X 2026-09-21)
+- Every **"AI personal assistant for X business"** Graphed is working with is growing extremely fast — market demand framed as unprecedented. Hero-section wireframes that say what the product does are working. Extends the ~$80k MRR vertical-assistant thesis already on file.
+
+## $29/mo hate-automation micro-SaaS (X 2026-09-21)
+- Playbook: find something people **hate doing** → build software that automates it → charge **$29/mo** → pay rent. Micro-SaaS simplicity over complex stacks when the pain is clear.
+
+## Start-a-business simplicity (X 2026-09-21)
+- How to start a business: find what the market wants → build → sell. **So simple / so hard.** Prefer this blunt loop over elaborate strategy theater.
+
+## Marketing-eng before/after creative loop (X 2026-09-21)
+- Today-doable Marketing Engineering for SaaS statics: **Exa** scrape Reddit pain/desired-outcome threads → before/after template + brand style guide → **ChatGPT image 2.5** creatives → store every ad JSON + pain/outcome vars in **Postgres** → bulk upload to FB Ads API single ad set → prune losers / let winners spend → next creative round **influenced by winners** (recursive). Buildable in ~an hour with Graphed CLI + Claude/Codex.
+
+## Hiring-signal outbound 101 (X 2026-09-21)
+- GTM engineering 101: hiring signal (e.g. bookkeeping software → company hiring a bookkeeper) → **Apify** job listings → **Exa** company research → **Apollo** org/titles → AI picks decision-maker → waterfall email → **Million Verifier** → Postgres TAM map → **Instantly** campaign. Copy: **3-word subject**, ≤160 char body, sell the **desired outcome**. Positive replies influence next research round.
+
+## Google Ads agency Claude Code case (X 2026-09-21)
+- Case: Google Ads agency cut **labor ~90% in 30 days**; 23 clients managed entirely through Claude Code; $1,500/client/mo → ~$34.5k revenue / ~$2k costs; margin **30% → 94%**. Stack: Ads + GA + CRM → warehouse; Claude Code reads warehouse / writes via Ads API; testing + winners campaigns; winning keywords → own ad set + dedicated Claude-built LP; keywords tied to CRM converting deals. Operate without living in the Ads UI.
+
+## Keep-it-simple reply automations (X 2026-09-22)
+- Over-engineered reply systems lose to: Instantly **positive-reply webhook** → LLM responds from an **md file** → check scheduling API whether lead booked → follow up if not. **Do simple things.**
+
+## Homepage H1 / CRM lead-quality ranking (X 2026-09-21 replies)
+- Homepage: if visitors don’t know what the product does, rewrite the **H1** so it says what it does (reposition).
+- Lead quality: from CRM, map good-customer shape (SimilarWeb, branded search, employees, etc.) → **server-side conversion event** that ranks inbound leads against that shape — best/fastest way to teach ads who to optimize for.
+
+## Anti-slop prompting (X 2026-09-22)
+- When AI output would "slop bomb" a coworker, prompt for **extreme concision** and **economy of words** — his stated fix that "works every time." Prefer tight operator prose over padded LLM paste.
+
+## Data-scraping GTM stack / analysis moat (X + In the Pit podcast 2026-09-23)
+- **Scraping is solved**; the moat is the **math/analysis layer** on top (rank by views/followers, transcript outliers, hook patterns → next scripts). Selling rows alone is not the business.
+- Ship internal tools (or a company) without writing code: **RapidAPI docs URL → Perplexity Python script → Lovable/Replit web app** one-shot. Framed as the actual unlock on the pod with Adrian.
+- **Google Maps → cold email** is ~four API calls: Targetron (bulk category) or Serper.dev (per-credit) → Hunter/Anymailfinder enrich → PhantomBuster crawl for contact-page Gmail → n8n/python → Sheet → Instantly. Used to need an engineer.
+- Emails behind login are not a dead end: **Hiker API** (Instagram user endpoint) returns email + followers/stories via logged-in mobile session tunneling; "looks sketchy… it works."
+- **Twitter/X data** cheaper than people think via Old Bird v2 on RapidAPI ($50/100k, $200/1M); prefer over twitterapi.io (Adrian: likely shut in ~6 months). Use the search Elon removed from UI sorted by top (e.g. "i built a") → copy what worked → ship.
+- **Influencer outreach without agency**: category → YouTube channel email finder on RapidAPI ($120/10k) → Instantly; offer = three-video package + affiliate; emails only if in channel description; still cheaper than ~$959/mo influencer search platforms.
+
+## Parasite SEO / trusted-domain publishing (X 2026-09-23)
+- **Parasite SEO**: publish on a domain Google already trusts so that domain's authority ranks your page (Gamma docs example: open publish, high organic, spam keywords gamblers wouldn't put on own domain). Platforms tolerate spam while growth-loop signups outweigh reputation cost; AI engines cite the same trusted domains. Edge = **finding the next Gamma** before everyone else does (list dated Sept 2026 as platforms catch up).
+
+## Backlinks-on-autopilot directory outreach (X 2026-09-23)
+- Marketing engineering today: scrape AI-tools directory sitemap → **Exa** find tool site URLs → waterfall email enrich → guest-blog ask; **agent** manages inbox and writes the guest post text.
