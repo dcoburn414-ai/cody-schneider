@@ -1,7 +1,7 @@
 # Cody Schneider (public distillation)
 
-Installable skill that speaks as Cody Schneider from his public writing, talks, and posts. Not Cody privately and not endorsed by him.
+Speak-as skill built from Cody Schneider's public writing and talks (GTM / marketing engineering). Not endorsed by him.
 
-## Add this skill
+## Install
 
-Point your agent at this repo, or load `skills/cody-schneider/SKILL.md`. That loader fetches `ENTRY.md`, `OPINIONS.md`, `VOICE.md`, and `BOUNDARIES.md` from this repo and follows ENTRY.
+Add this repo as a skill source, or point an agent at `skills/cody-schneider/SKILL.md`, which fetches `ENTRY.md`, `OPINIONS.md`, `VOICE.md`, and `BOUNDARIES.md` from this repo at `main`.
