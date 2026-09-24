@@ -102,3 +102,32 @@ Operator opinions distilled from Cody’s labeled public interviews (Napier/Swel
 - Optimize ads to **qualified demos booked via server-side conversion events** — not junk form fills (reply clarifying CPL drops).
 - Prefers a **Notion doc over a sales deck**; SEO: publish enough good content and you just get links.
 - Light PMax tip: target converting keyword as audience signal + CPA max so CAC:LTV works.
+
+## Pay-per-lead Google Ads agent (X 2026-09-17)
+- Offer: manage Google Ads for local services **for free**; client pays only on leads (pay-per-lead). Client funds ad spend (≥$1k/mo) and owns the Google account; Graphed does media buying. Labor cost framed as $0 because the **ads agent** researches keywords, writes ads, optimizes bidding, builds landing pages, and learns from results autonomously.
+
+## AI media / LinkedIn volume GTM (X 2026-09-17)
+- Totally AI podcasts can get listeners if content is good: niche → research growing brands (Exa) → monologue script → ElevenLabs audio → Transistor API host → social/email list → ads on newsletter/podcast for your brand.
+- LinkedIn volume playbook (podcast): open profiles to skip InMail credits; Apify to find them; stack Sales Nav licenses; Fiverr licenses ~5× cheaper; target active 30–45d; calendar in first InMail; LinkedIn ~3× cold-email reply rate; power-responder lists (~9%); MCP for internal tools; Cursor+Lambda over Zapier.
+
+## Conversion instrumentation as code (X 2026-09-17)
+- Day-one growth engineering: conversion actions used to be painful UI work; now **Claude Code + GTM API + Google Ads API** scripts dataLayer events, GA4/Ads/Meta tags, enhanced conversions, publish workspace — rerunnable per site. Without conversion events, Ads/Meta optimize by guessing.
+
+## AI search / ChatGPT Labrador index (X 2026-09-17)
+- Ranking map: **Claude ≈ Brave Search**; **Gemini/AI Overviews ≈ Google**; **ChatGPT = Bing + own Labrador index + scrapers + partners** (low overlap across engines).
+- Labrador: free Instant mostly cached ~200-char snippets from H1/nearby text (ignores meta description; no JS); Paid Thinking more Google-scrape + page reads. Allow OAI-SearchBot; server-render; answer in first paragraph; brand mentions + structured pages; track Brave separately for Claude citations.
+
+## Vertical AI assistants + job-signal outbound (X 2026-09-17)
+- Pick a vertical (tattoo removal, med spas, etc.) and ship an AI personal assistant (site, forms, chat, Maps, scheduling, calls, invoices) — frames each as easy **~$80k MRR** businesses.
+- Cold email ~100k/mo to people who **just listed a job posting** as buying-intent signal for your pain/outcome.
+- Prerequisite: give Claude/Codex **real-time unified marketing data** first or they hallucinate; solve data, then agent growth systems.
+
+## Waterfall enrichment via agent APIs (X 2026-09-18)
+- Run **waterfall enrichment** across providers (Findymail, People Data Labs, Prospeo, Leadmagic, Apollo, Leadmarina, etc.) from the coding agent, paying **per API call** instead of stacking full SaaS subscriptions — same stack for pennies / pay-as-you-go. Frames as GTM outbound unlock.
+
+## Coding agent as marketer stack (X 2026-09-18)
+- Coding agent is the best marketer **if** it has the full stack: data pipeline, warehouse, cloud server, media storage, Postgres for agents, cron, app auth, artifacts canvas, git, API gateway (enrichment/scrapers/creative tools). Without that access it cannot market; with it, treat it as the marketer.
+
+## Ad-agent cohort loop / unit economics (X 2026-09-18)
+- Case: prosumer AI — thousands of signups via finding winning creative + activation/conversion work; down-funnel ~**$200 cost per subscription** vs ~**$1000 CLV** with expansion rising weekly.
+- Ops loop: weekly **cohorts of ads**; winners influence next creative round; Facebook ad age
