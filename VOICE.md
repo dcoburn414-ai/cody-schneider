@@ -126,7 +126,7 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 
 94. "we've been having a coding agent run a creator program for us through sideshift api / cost per demo from the videos is $100 so far" — X note — https://x.com/codyschneider/status/2101295251310641416 (2026-09-19)
 95. "marketplace volume is a trap… if you optimize for applicants you will drown." — same
-96. "\"accepted\" is not \"producing.\"" — same
+96. ""accepted" is not "producing."" — same
 97. "you have to watch the files. the api will not do this for you." — same
 98. "pay for the asset, not the views… $40 per unique video posted, flat" — same
 99. "the brief is the product… creators will ignore it unless you reject in the thread the same day" — same
