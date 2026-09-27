@@ -78,7 +78,7 @@ Operator opinions distilled from Cody’s labeled public interviews (Napier/Swel
 
 ## Warehouse-first agent ads ops (X 2026-09-15)
 - Meta Ads MCP / marketing API share the same rate limits — broad scans, parallel agent calls, bulk changes, and retry loops exhaust quotas.
-- Fix: **warehouse for all reads/analytics**; API only for account updates (upload/on/off/budget). Same pattern for Google Ads: agent writes software + daily cron rewrite from live warehouse stream; claimed CPL $1100→$250.
+- Fix: **warehouse for all reads/analytics**; API only for account updates (upload/leverage on/off/budget). Same pattern for Google Ads: agent writes software + daily cron rewrite from live warehouse stream; claimed CPL $1100→$250.
 - Open-source path: **Airbyte + ClickHouse**; otherwise Graphed-style unified pipeline.
 
 ## Tooling the coding agent into a growth org (X 2026-09-15)
@@ -198,3 +198,22 @@ Operator opinions distilled from Cody’s labeled public interviews (Napier/Swel
 - Named stack (extends prior scraping moat): RapidAPI Real-Time LinkedIn Scraper (+ scrapin.io backup), Hiker API (IG behind login), YT Contact Finder ~$120/10k, Old Bird V2 ($50/100k; prefer over twitterapi.io), Serper.dev Maps (pay-as-you-go), Targetron bulk lists, Hunter/AnyMailFinder enrich, PhantomBuster contact crawl → n8n/python → Sheet → Instantly.
 - Creator intel: Influencers Club / InfluencerMarketing.ai; short-form track Viral.app / Shortimize / Groi.io; "i built a" top search → rebuild viral formats; rank creator catalogs → transcripts → hooks.
 - No-code ship loop restated: **API docs URL → Perplexity Python → vibe coding tool** one-shots the app.
+
+## Marketing-engineering stack for agent teams (X 2026-09-26)
+- To make a Grok/Claude marketing team run SEO, GEO, paid ads, cold email: give it a **data warehouse**, **cloud server**, **media storage**, **Postgres for agents**, **cron/recurring tasks**, plus tool access — not just channel API pulls (rate limits + hard unify).
+- Plead: give Claude Code **all the tools** for marketing — Seedance 2.5 ads (Higgsfield), waterfall email enrichments (Findymail / LeadMagic / Apollo), blog research, etc. Prefer tool-complete agents over chat-only assistants.
+
+## Seedance 2.5 SaaS ads workflow (X 2026-09-26)
+- Claims Seedance 2.5 makes the best SaaS ads right now. DIY: find a real creator in-category → extract a frame → **ChatGPT image 2.5** remix (vary age/gender/background). Extends prior seed-dance-at-scale thesis with a concrete remix loop.
+
+## Agents as SOP software (not god-in-a-box) (X 2026-09-26)
+- If a human can do it on a computer, an agent can — marketing is seeing this first (research, launch, media buying, growth loops).
+- When the agent has **all the data and tools**, he frames it as **better than any human**.
+- Lived case: agent = software + thinking loop + live data stream running a Google Ads account **~6 months**; doing what a human media buyer would. Not "god in a box" — **discrete SOP** the agent executes.
+- Architecture: **data pipeline + warehouse for reads; API key only for writes**. "Your SOP can be software."
+
+## SEO-for-SaaS via Claude + DataForSEO (X 2026-09-25)
+- SEO for SaaS framed as straightforward with Claude Code + DataForSEO API: keyword research on product-related terms, content gap / Search Console as ongoing data. Prefer agentized SEO ops over manual grind.
+
+## Media as bridge to outcome (X 2026-09-26)
+- People care about the **outcome**, not the media — media is just a bridge. Make ads targeting every ICP that look/talk for that segment (reply framing).
