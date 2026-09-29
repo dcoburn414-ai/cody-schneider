@@ -24,4 +24,16 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 9. "Don't even start the thing unless it's repeatable" — Napier (best marketing advice)
 10. "friends don't let friends do n8n" — Open Market — https://podscan.fm/podcasts/open-market/episodes/graphed-ceo-cody-schneider-on-an-ai-first-approach-to-gtm (2026-03-11)
 
-PLACEHOLDER_LOAD_REMAINING_FROM_FILE
+## Exact quotes — operator / GTM register (podcasts)
+11. "I don't think anybody actually wants to chat with AI… it's just a sandbox to figure out… what is the prompt chain that gets the output that I'm looking for." — Napier
+12. "give the AI almost this like walled garden that they have to work with… source material that you have to work from." — Napier
+13. "take every growth lever that exists… layer on all of these growth strategies onto each other, and that's how you break the laws of physics… in marketing" — Napier
+14. "Start a blog, figure out how to get traffic to it. Figure out how to sell something to them. From that traffic. If you can do that, you're in the top 1% of marketers in the world." — Napier
+15. On agent podcast booking test: "We got 112 positive responses. It dropped the ball on 90 of them. It scheduled 35 of them… my calendar was just like solid." — Open Market
+16. "you're hiring, not just me. You're hiring the 20 agents I have behind me and all this personal software" — Open Market (GTM engineer salary story)
+17. "it's an AI agent for marketing analytics. Our goal is basically to replace the data scientists… one click set up… manage the data warehouse… chat with it" — START/SGP transcript — https://podcasttranscript.ai/library/cody-schneider-growth-flywheels-underpriced
+18. "when you're an early, early stage company, you focus on transactional marketing… revenue tomorrow, not revenue six months from now." — START/SGP
+19. Layering flywheels / S-curves until channel ceiling then stack next — START/SGP (Rupa growth story)
+20. "NetSuite is a great example… anybody that's ever used NetSuite… despise it… still winning… distribution and the switching cost moat" — Minter Dialogue — https://www.minterdial.com/2026/03/cody-schneider/
+
+SEE_LOCAL_FILE_/tmp/voice_publish_135.md_FOR_REMAINDER_QUOTES_21_THROUGH_135
