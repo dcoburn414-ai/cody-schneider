@@ -131,3 +131,20 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 98. "pay for the asset, not the views… $40 per unique video posted, flat" — same
 99. "the brief is the product… creators will ignore it unless you reject in the thread the same day" — same
 100. "the ops is the program… that's the work a coding agent should do. taste is the part you still sample." — same
+101. "one good clip is enough to learn the cpa… $100 / demo is the number." — same
+102. "do not confuse a full applicant list with a creator program." — same
+
+103. "I swear to god every \"AI personal assistant for X business\" we're working with right now is growing so fast / the market wants to buy this so bad I've never seen anything like it" — X — https://x.com/codyschneider/status/2102125731253825929 (2026-09-21)
+104. "find something people hate doing / build software that automates that thing / charge them $29 a month / pay your rent" — X — https://x.com/codyschneider/status/2102095523540791452 (2026-09-21)
+105. "how to start a business / find something the market wants to buy / build the product / sell it to the market / that's it / so simple / so hard" — X — https://x.com/codyschneider/status/2102080430849560924 (2026-09-21)
+106. "Marketing Engineering you can do today / before and after static ads for your saas" / "prune the losers, let the winners keep spending" / "The next round of creative that you do, let it be influenced by the winners" — X note — https://x.com/codyschneider/status/2102065330906399201 (2026-09-21)
+107. "GTM engineering 101 / Find a signal for outbound, like hiring for a position" / "Three word subject line / 160 character or less, email / Focus on selling the desired outcome they want" — X note — https://x.com/codyschneider/status/2102035122673287484 (2026-09-21)
+108. "We just helped a Google ads agency cut their labor costs by 90% in 30 days / They're now managing 23 clients entirely through Claude code" / "Their margin went form 30% to 94% in a month" — X note — https://x.com/codyschneider/status/2102020055428993255 (2026-09-21)
+109. "this is over engineered / positive reply webhook from instantly / llm responds based on md file / checks against scheduling api for lead scheduled / follows up if not / do simple things" — reply — https://x.com/codyschneider/status/2102253747187700012 (2026-09-22)
+110. "Landed on your homepage I didn't know what the product did / so i rewrote the h1 reposition it / now it says what it does" — reply — https://x.com/codyschneider/status/2102128093490188295 (2026-09-21)
+111. "From the CRM, map what a good customer looks like… then you make a server-side conversion event as the lead comes in that ranks the lead based off of this data." — reply — https://x.com/codyschneider/status/2102062019876995310 (2026-09-21)
+
+112. "how to not slop bomb your coworker" / "make this extremely concise and focus on the economy of words" / "works every time" — X — https://x.com/codyschneider/status/2102518305206444287 (2026-09-22)
+
+113. "scraping is solved, and nobody has productized the part that actually matters" / "the math on top is the moat" / "the analysis layer is the business" — X (podcast clip) — https://x.com/codyschneider/status/2102850525418967413 (2026-09-23)
+114. "how to ship a working tool off an api you've never touched, if you don't write code" / "copy the rapidapi docs url… paste it into perplexity… take that python into lovable or replit" / "that's your internal tool. or it's your company" — X (podcast clip) — https://x.com/codyschneider/status/2102835415388389831 (2026-09-23)
