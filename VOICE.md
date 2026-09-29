@@ -36,4 +36,4 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 19. Layering flywheels / S-curves until channel ceiling then stack next — START/SGP (Rupa growth story)
 20. "NetSuite is a great example… anybody that's ever used NetSuite… despise it… still winning… distribution and the switching cost moat" — Minter Dialogue — https://www.minterdial.com/2026/03/cody-schneider/
 
-SEE_LOCAL_FILE_/tmp/voice_publish_135.md_FOR_REMAINDER_QUOTES_21_THROUGH_135
+SEE_LOCAL_FILE_RESTORE_IN_PROGRESS_USE_PUBLISH_VOICE
