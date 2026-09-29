@@ -44,4 +44,46 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 25. "token abundance… we can do anything, but what's the right thing to do?" — Minter
 26. Bottom-up tooling vs "you need to use a certain amount of tokens per week" theater — Minter
 27. Rupa origin: media arm for practitioners; podcast + email + webinars as demand gen — Napier / START
-28. Swell MVP: Go
+28. Swell MVP: Google Drive folder + local laptop processing + manual email of outputs — Napier
+29. "If you can figure out how to prompt AI to just write Python scripts for you as a marketer like you suddenly become god tier" — Napier
+30. Cost of intelligence approaching zero; open-source fast-follows of frontier models — Minter
+
+## Exact quotes — agent creative / prompting (X 2026-09-09)
+31. "If you do nothing else today, build a brand style guide for your coding agent" — X @codyschneider — https://x.com/codyschneider/status/2097746864716095641 (2026-09-09)
+32. "Andromeda killed interest targeting, so the creative is the targeting signal now." — same thread
+33. "The style guide is what keeps 50 generations looking like the same company." — same thread
+34. "tell you agent to \"be precise focus on the economy of words\"" — X — https://x.com/codyschneider/status/2097778320859386015 (2026-09-09)
+35. "Forward deployed engineers implement marketing agents in 5 business days" / "Grow your business without increasing headcount" — X Graphed promo — https://x.com/codyschneider/status/2097808531403468903 (2026-09-09)
+
+## Exact quotes — API-first / ads sequencing (X 2026-09-10)
+36. "can i do everything through the API that i can do in the UI / if the answer is no it's off the list, doesn't matter how good the product looks" — X @codyschneider — https://x.com/codyschneider/status/2098048865714770117 (2026-09-10)
+37. "the ugly admin surface that made salesforce miserable to click through is the surface a model needs to get work done" — same
+38. "cost of code is basically zero, my team gets the exact view they need when they need it" — same
+39. "how the most bloated software with extensive API endpoints is now arbitrage" — same
+40. "facebook ads is 100% sequencing your ads" — X — https://x.com/codyschneider/status/2098124379154505873 (2026-09-10)
+41. "so you need to make ads ad different parts of awareness funnel / awareness / consideration / conversion" — same
+42. "give your coding agent the marketing data it needs to do your marketing" — X — https://x.com/codyschneider/status/2098100817081536970 (2026-09-10)
+43. "it is working for no face youtube channels also" — X reply — https://x.com/codyschneider/status/2098181107351232710 (2026-09-10)
+44. "why the only defensible thing you have now is branded search" — X (top episodes promo) — https://x.com/codyschneider/status/2098109251948261755 (2026-09-10)
+
+45. "facebook ads for saas 101 in the age of andromeda" / "upload 5 new pieces of creative per day as an ad set (150 per month)" / "losing ad sets get turned off" / "winning ad sets compete against each other" / "make more ads like winners" — X — https://x.com/codyschneider/status/2098456555431546935 (2026-09-11)
+46. "yes but use proxy data that qualifies the lead in real time" / "you make a binary yes / no based on this proxy data" / "we've found this to work very effectively" — X reply — https://x.com/codyschneider/status/2098467424425402588 (2026-09-11)
+
+## Exact quotes — franchise / agents / stacks (X 2026-09-14)
+47. "we've taken their facebook ads cost per lead form $70 to $16 in 4 weeks" — https://x.com/codyschneider/status/2099483307536703513 (2026-09-14)
+48. "an agent is just code with a thinking loop with a live data stream it is making decisions on top of" — same
+49. "a marketing agent is just code with a thinking loop with a live data stream it is making decisions" — https://x.com/codyschneider/status/2099498417898532917 (2026-09-14)
+50. "we're deploying 300 AI UGC seed dance ads a month for an AI startup" / "cost per video $2.5 for 30 seconds" — https://x.com/codyschneider/status/2099513541904539695 (2026-09-14)
+51. "let go your $1600/mo video editor" / "the last 5% of timing still needs your ear" — https://x.com/codyschneider/status/2099528633828213062 (2026-09-14)
+52. "Claude Code can now run your SEO for you" / "tired of their SEO agency doing NOTHING for $60K a year" — https://x.com/codyschneider/status/2099528635224826199 (2026-09-14)
+53. "marketing agents are just code with a thinking loop, connected to a live data stream they are making decisions on" — https://x.com/codyschneider/status/2099543704314782126 (2026-09-14)
+54. "most people treat TAM like a number in a pitch deck" / "you can only answer those questions if your TAM is a database" — https://x.com/codyschneider/status/2099558800428544344 (2026-09-14)
+55. "saw you just posted for a head of growth beats hope this finds you well every single time" — same
+56. "marking is doing the compounding relentlessly" / "just consistently doing the thing to be in front of who you're selling to" — https://x.com/codyschneider/status/2099573909674713143 (2026-09-14)
+57. "you should be just guessing your leads emails" / "they aren't in a shared database" — https://x.com/codyschneider/status/2099573909804740821 (2026-09-14)
+58. "people with the most capital to deploy listen to long form or read long form" / "so long form conversations is what's left" — https://x.com/codyschneider/status/2099604097582219547 (2026-09-14)
+59. "the most valuable asset in the world that people have made is their back catalog of content" — https://x.com/codyschneider/status/2099619204991254582 (2026-09-14)
+60. "the best cold email signal is hiring" / "they wrote half your cold email for you" — https://x.com/codyschneider/status/2099634302233268607 (2026-09-14)
+61. "learning is cross location so cycles speed up" — reply — https://x.com/codyschneider/status/2099502709762379853 (2026-09-14)
+
+## Exac
