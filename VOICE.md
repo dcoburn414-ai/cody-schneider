@@ -86,4 +86,9 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 60. "the best cold email signal is hiring" / "they wrote half your cold email for you" — https://x.com/codyschneider/status/2099634302233268607 (2026-09-14)
 61. "learning is cross location so cycles speed up" — reply — https://x.com/codyschneider/status/2099502709762379853 (2026-09-14)
 
-## Exac
+## Exact quotes — warehouse / agents / creative (X 2026-09-15)
+62. "I am once again telling you that a coding agent can run your google ads account better than a human media buyer" / "we took cost per lead from $1100 to $250" — https://x.com/codyschneider/status/2099891010595668277 (2026-09-15)
+63. "all data analysis happens from data warehouse / and then only account updates happen through the API" — Meta Ads MCP rate-limit note — https://x.com/codyschneider/status/2099996699993219402 (2026-09-15)
+64. "you need to be unifying your marketing data for your coding agent" / "opensource solution is airbyte + clickhouse" — https://x.com/codyschneider/status/2099966496273240288 (2026-09-15)
+65. "giving your claude code all the tools it needs to do marketing" / "it is now your entire growth org" — https://x.com/codyschneider/status/2099981612733641190 (2026-09-15)
+66. "if your ads look and sound like the person you're selling to they perform so much better" / "make 50 of these for $2.50 per video" /
