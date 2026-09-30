@@ -1,1 +1,1 @@
-@file:/workspace/distill-daily-20260929/cody-schneider-publish/OPINIONS.md
+$file:/workspace/distill-daily-20260929/cody-schneider-publish/OPINIONS.md
