@@ -118,4 +118,39 @@ Operator opinions distilled from Cody’s labeled public interviews (Napier/Swel
 - Labrador: free Instant mostly cached ~200-char snippets from H1/nearby text (ignores meta description; no JS); Paid Thinking more Google-scrape + page reads. Allow OAI-SearchBot; server-render; answer in first paragraph; brand mentions + structured pages; track Brave separately for Claude citations.
 
 ## Vertical AI assistants + job-signal outbound (X 2026-09-17)
-- Pick a vertical (tattoo removal, med spas, etc.) and ship an AI personal assistant (site, forms, chat, Maps, scheduling, calls, invoices) — frames each as easy **~$80k MRR** business
+- Pick a vertical (tattoo removal, med spas, etc.) and ship an AI personal assistant (site, forms, chat, Maps, scheduling, calls, invoices) — frames each as easy **~$80k MRR** businesses.
+- Cold email ~100k/mo to people who **just listed a job posting** as buying-intent signal for your pain/outcome.
+- Prerequisite: give Claude/Codex **real-time unified marketing data** first or they hallucinate; solve data, then agent growth systems.
+
+## Waterfall enrichment via agent APIs (X 2026-09-18)
+- Run **waterfall enrichment** across providers (Findymail, People Data Labs, Prospeo, Leadmagic, Apollo, Leadmarina, etc.) from the coding agent, paying **per API call** instead of stacking full SaaS subscriptions — same stack for pennies / pay-as-you-go. Frames as GTM outbound unlock.
+
+## Coding agent as marketer stack (X 2026-09-18)
+- Coding agent is the best marketer **if** it has the full stack: data pipeline, warehouse, cloud server, media storage, Postgres for agents, cron, app auth, artifacts canvas, git, API gateway (enrichment/scrapers/creative tools). Without that access it cannot market; with it, treat it as the marketer.
+
+## Ad-agent cohort loop / unit economics (X 2026-09-18)
+- Case: prosumer AI — thousands of signups via finding winning creative + activation/conversion work; down-funnel ~**$200 cost per subscription** vs ~**$1000 CLV** with expansion rising weekly.
+- Ops loop: weekly **cohorts of ads**; winners influence next creative round; Facebook ad agent runs the media-buying process end-to-end.
+
+## Agent-run creator programs / SideShift (X 2026-09-19)
+- Coding agents can run creator ops end-to-end via marketplace APIs (SideShift cited): post brief, inbox, review submissions (watch files), push on-brief ads into Meta — without a creator-ops hire. Early result: **~$100 cost per demo**.
+- **Marketplace volume is a trap**: hundreds of applicants ≠ a program (523 applied → 13 accepted → 5 live). Optimize for producing creators, not applicant count.
+- Platform queues lie: applications / campaign joins / contracts can all look like progress while **zero videos** ship. "Accepted" ≠ producing.
+- **Watch the files** — API "pending" only means upload. Reject editor-screen recordings, recycled desk cuts with VO swaps; only run on-brief finished posts.
+- Connected TikTok ≠ they posted your content; campaign-tracked posts are often their old organic. Don't pay on "posts attached to campaign."
+- **Pay for the asset, not the views**: flat per unique finished video (example $40) + bonuses on hits; gating base rate on reach invites recycled caption-changed content.
+- **The brief is the product**; reject same-day in-thread with reason + reshoot ask. Agents need an explicit reject rule.
+- Ops *is* the program (scripts, "not finished," "sign the contract") — agent work; humans still sample taste.
+- One on-brief clip in the CBO is enough to learn CPA; don't wait for contracted volume to know if it works.
+
+## Vertical AI assistants demand surge (X 2026-09-21)
+- Every **"AI personal assistant for X business"** Graphed is working with is growing extremely fast — market demand framed as unprecedented. Hero-section wireframes that say what the product does are working. Extends the ~$80k MRR vertical-assistant thesis already on file.
+
+## $29/mo hate-automation micro-SaaS (X 2026-09-21)
+- Playbook: find something people **hate doing** → build software that automates it → charge **$29/mo** → pay rent. Micro-SaaS simplicity over complex stacks when the pain is clear.
+
+## Start-a-business simplicity (X 2026-09-21)
+- How to start a business: find what the market wants → build → sell. **So simple / so hard.** Prefer this blunt loop over elaborate strategy theater.
+
+## Marketing-eng before/after creative loop (X 2026-09-21)
+- Today-doable Marketing Engineering for SaaS statics: **Exa** scrape Reddit pain/desired-outcome threads → before/after template + brand style guide → **ChatGPT image 2.5** creatives → store every ad JSON + pain/outcome vars in **Postgres** → bulk upload to FB Ads API single ad set → prune losers / let winners spend → next creative round **influenced by winners** (recursive). Buildable in ~an hour with Graphed CLI + 
