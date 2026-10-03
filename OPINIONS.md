@@ -86,4 +86,36 @@ Operator opinions distilled from Cody’s labeled public interviews (Napier/Swel
 - Without unified marketing data, agent decisions are assumptions.
 
 ## Lookalike UGC creative volume (X 2026-09-15)
-- Ads that **look and sound like the buyer** outperform. Stack: ElevenLabs voice + ChatGPT image of ICP + h
+- Ads that **look and sound like the buyer** outperform. Stack: ElevenLabs voice + ChatGPT image of ICP + hook/outcome script → Seed Dance 2.5 (~$2.50/30s) → 50 creatives into one FB CBO/open-targeting ad set → Andromeda finds winners → prune inefficient spenders.
+
+## Implement → train → hand keys (X 2026-09-15)
+- Demand pattern: speedrun agent implementation, train the team on marketing engineering, then hand keys. Skill gap is massive vs what’s possible; budgets push AI over headcount.
+
+## Job-listing outbound engine (X 2026-09-15)
+- Apify monitors LinkedIn/Indeed for new roles matching titles → ICP filter → map decision-makers → waterfall email → Instantly cold email → agent circles leads into SVP. Extends hiring-signal outbound already on file.
+
+## Marketing engineering day-in-a-day stack (X 2026-09-16)
+- Thesis: give Claude Code/Codex a full stack (data pipeline, warehouse, cloud server, media storage, Postgres for agents, cron, auth, sharable links, git, tools API gateway) and **you can do in a day what a Fortune 500 would do in a year**.
+- Concrete daily volume he lists as now-possible: ~40 FB ads (Seed Dance 2.5), ~30 Google Ads ad groups via API, ~100 landing pages, guest posts for backlinks, podcast-host cold email → booked pods, vlog edit via Astra + DaVinci Resolve MCP, ~25 tweets across accounts, LinkedIn lead-magnet scripts.
+- **"All marketing is going to code"** / build a **coding factory for marketing**: UGC = Seed Dance JSON; static ad = ChatGPT image JSON; analytics = SQL; cold email inbox = webhook; waterfall enrichment = API calls.
+- Coding agent is the best marketer **if** it has access to everything it needs (same stack list).
+- Optimize ads to **qualified demos booked via server-side conversion events** — not junk form fills (reply clarifying CPL drops).
+- Prefers a **Notion doc over a sales deck**; SEO: publish enough good content and you just get links.
+- Light PMax tip: target converting keyword as audience signal + CPA max so CAC:LTV works.
+
+## Pay-per-lead Google Ads agent (X 2026-09-17)
+- Offer: manage Google Ads for local services **for free**; client pays only on leads (pay-per-lead). Client funds ad spend (≥$1k/mo) and owns the Google account; Graphed does media buying. Labor cost framed as $0 because the **ads agent** researches keywords, writes ads, optimizes bidding, builds landing pages, and learns from results autonomously.
+
+## AI media / LinkedIn volume GTM (X 2026-09-17)
+- Totally AI podcasts can get listeners if content is good: niche → research growing brands (Exa) → monologue script → ElevenLabs audio → Transistor API host → social/email list → ads on newsletter/podcast for your brand.
+- LinkedIn volume playbook (podcast): open profiles to skip InMail credits; Apify to find them; stack Sales Nav licenses; Fiverr licenses ~5× cheaper; target active 30–45d; calendar in first InMail; LinkedIn ~3× cold-email reply rate; power-responder lists (~9%); MCP for internal tools; Cursor+Lambda over Zapier.
+
+## Conversion instrumentation as code (X 2026-09-17)
+- Day-one growth engineering: conversion actions used to be painful UI work; now **Claude Code + GTM API + Google Ads API** scripts dataLayer events, GA4/Ads/Meta tags, enhanced conversions, publish workspace — rerunnable per site. Without conversion events, Ads/Meta optimize by guessing.
+
+## AI search / ChatGPT Labrador index (X 2026-09-17)
+- Ranking map: **Claude ≈ Brave Search**; **Gemini/AI Overviews ≈ Google**; **ChatGPT = Bing + own Labrador index + scrapers + partners** (low overlap across engines).
+- Labrador: free Instant mostly cached ~200-char snippets from H1/nearby text (ignores meta description; no JS); Paid Thinking more Google-scrape + page reads. Allow OAI-SearchBot; server-render; answer in first paragraph; brand mentions + structured pages; track Brave separately for Claude citations.
+
+## Vertical AI assistants + job-signal outbound (X 2026-09-17)
+- Pick a vertical (tattoo removal, med spas, etc.) and ship an AI personal assistant (site, forms, chat, Maps, scheduling, calls, invoices) — frames each as easy **~$80k MRR** business
