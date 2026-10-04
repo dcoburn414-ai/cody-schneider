@@ -91,4 +91,31 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 63. "all data analysis happens from data warehouse / and then only account updates happen through the API" — Meta Ads MCP rate-limit note — https://x.com/codyschneider/status/2099996699993219402 (2026-09-15)
 64. "you need to be unifying your marketing data for your coding agent" / "opensource solution is airbyte + clickhouse" — https://x.com/codyschneider/status/2099966496273240288 (2026-09-15)
 65. "giving your claude code all the tools it needs to do marketing" / "it is now your entire growth org" — https://x.com/codyschneider/status/2099981612733641190 (2026-09-15)
-66. "if your ads look and sound like the person you're selling to they perform so much better" / "make 50 of these for $2.50 per video" /
+66. "if your ads look and sound like the person you're selling to they perform so much better" / "make 50 of these for $2.50 per video" / "let the andromeda find winning creative" — https://x.com/codyschneider/status/2099845746354733333 (2026-09-15)
+67. "implementation for immediate impact, training for upskilling, and then handing the keys over" — https://x.com/codyschneider/status/2099845741040595233 (2026-09-15)
+68. "built a outbound engine that monitor new job positions listings" / "waterfall enrichment to find email / cold email with instantly ai" — https://x.com/codyschneider/status/2099860831458460074 (2026-09-15)
+
+## Exact quotes — marketing engineering stack (X 2026-09-16)
+69. "i need you to understand what is happening in marketing engineering right now" / "you can do in a day what a fortune 500 would do in a year" — https://x.com/codyschneider/status/2100253388822675551 (2026-09-16)
+70. "i dont think you understand what is happening in marketing engineering right now" — same
+71. "your coding agent is the best marketer in the world if you give it access to everything it needs to do marketing" — https://x.com/codyschneider/status/2100268484018004410 (2026-09-16)
+72. "all marketing is going to code" / "A UGC video is just seed dance json" / "build a coding factory for marketing" — https://x.com/codyschneider/status/2100283579674575048 (2026-09-16)
+73. "its qualified demos booked sent from a server side conversion event" — https://x.com/codyschneider/status/2100256777048842641 (2026-09-16)
+74. "give me a notion doc all day" — https://x.com/codyschneider/status/2100360270732476791 (2026-09-16)
+75. "crazy idea if you publish enough good content you just get links" — https://x.com/codyschneider/status/2100264321368666161 (2026-09-16)
+76. "pmax target converting keyword as audience signal CPA max that gives you cac to ltv that works" — https://x.com/codyschneider/status/2100302475572187177 (2026-09-16)
+
+77. "for the last 4 weeks we've been managing google ads for a local service business for free / they only pay us when we get them leads" — https://x.com/codyschneider/status/2100721469672022387 (2026-09-17)
+78. "ad spend is funded by them / google account is owned by them / we just do the media buying" — https://x.com/codyschneider/status/2100741493350957228 (2026-09-18)
+79. "because my labor is $0" — https://x.com/codyschneider/status/2100822312807498069 (2026-09-18)
+80. "you can make podcasts that are totally AI and have people listen to them if they content is good enough" — https://x.com/codyschneider/status/2100676194253312488 (2026-09-17)
+81. "how to send 250,000 linkedin DMs per month" / "LinkedIn gets 3x the reply rate of cold email" — https://x.com/codyschneider/status/2100661095685915041 (2026-09-17)
+82. "Conversion action instrumentation used to be the most important thing for you to do on day one for growth engineering" — https://x.com/codyschneider/status/2100645989828669785 (2026-09-17)
+83. "Without conversion events Google Ads and Meta have no idea who to optimize for so you're paying them to guess" — same
+84. "Claude = Brave Search / Gemini / AI Overviews = Google / ChatGPT = a hot mess of bing + its own index + google + other feeds" — https://x.com/codyschneider/status/2100624716839158020 (2026-09-17)
+85. "if you've been treating your Bing rankings as your ChatGPT rankings, they're not the same thing." — Labrador note — https://x.com/codyschneider/status/2100630871002820973 (2026-09-17)
+86. "just pick a business vertical … every one of these can easily be a $80k MRR business" — https://x.com/codyschneider/status/2100600670982177214 (2026-09-17)
+87. "nobody wants you to know this but you can just cold email a 100,000 people in a month who are your target customer and just listed a job posting" — https://x.com/codyschneider/status/2100585583969988751 (2026-09-17)
+88. "if you do only one thing today give you claude or codex real-time marketing data / without it they are hallucinating" — https://x.com/codyschneider/status/2100570502448181366 (2026-09-17)
+
+89. "I wish I found this sooner this has changed GTM outbound for good / you can get Claude
