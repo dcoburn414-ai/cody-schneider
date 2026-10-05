@@ -153,4 +153,197 @@ Operator opinions distilled from Cody’s labeled public interviews (Napier/Swel
 - How to start a business: find what the market wants → build → sell. **So simple / so hard.** Prefer this blunt loop over elaborate strategy theater.
 
 ## Marketing-eng before/after creative loop (X 2026-09-21)
-- Today-doable Marketing Engineering for SaaS statics: **Exa** scrape Reddit pain/desired-outcome threads → before/after template + brand style guide → **ChatGPT image 2.5** creatives → store every ad JSON + pain/outcome vars in **Postgres** → bulk upload to FB Ads API single ad set → prune losers / let winners spend → next creative round **influenced by winners** (recursive). Buildable in ~an hour with Graphed CLI + 
+- Today-doable Marketing Engineering for SaaS statics: **Exa** scrape Reddit pain/desired-outcome threads → before/after template + brand style guide → **ChatGPT image 2.5** creatives → store every ad JSON + pain/outcome vars in **Postgres** → bulk upload to FB Ads API single ad set → prune losers / let winners spend → next creative round **influenced by winners** (recursive). Buildable in ~an hour with Graphed CLI + Claude/Codex.
+
+## Hiring-signal outbound 101 (X 2026-09-21)
+- GTM engineering 101: hiring signal (e.g. bookkeeping software → company hiring a bookkeeper) → **Apify** job listings → **Exa** company research → **Apollo** org/titles → AI picks decision-maker → waterfall email → **Million Verifier** → Postgres TAM map → **Instantly** campaign. Copy: **3-word subject**, ≤160 char body, sell the **desired outcome**. Positive replies influence next research round.
+
+## Google Ads agency Claude Code case (X 2026-09-21)
+- Case: Google Ads agency cut **labor ~90% in 30 days**; 23 clients managed entirely through Claude Code; $1,500/client/mo → ~$34.5k revenue / ~$2k costs; margin **30% → 94%**. Stack: Ads + GA + CRM → warehouse; Claude Code reads warehouse / writes via Ads API; testing + winners campaigns; winning keywords → own ad set + dedicated Claude-built LP; keywords tied to CRM converting deals. Operate without living in the Ads UI.
+
+## Keep-it-simple reply automations (X 2026-09-22)
+- Over-engineered reply systems lose to: Instantly **positive-reply webhook** → LLM responds from an **md file** → check scheduling API whether lead booked → follow up if not. **Do simple things.**
+
+## Homepage H1 / CRM lead-quality ranking (X 2026-09-21 replies)
+- Homepage: if visitors don’t know what the product does, rewrite the **H1** so it says what it does (reposition).
+- Lead quality: from CRM, map good-customer shape (SimilarWeb, branded search, employees, etc.) → **server-side conversion event** that ranks inbound leads against that shape — best/fastest way to teach ads who to optimize for.
+
+## Anti-slop prompting (X 2026-09-22)
+- When AI output would "slop bomb" a coworker, prompt for **extreme concision** and **economy of words** — his stated fix that "works every time." Prefer tight operator prose over padded LLM paste.
+
+## Data-scraping GTM stack / analysis moat (X + In the Pit podcast 2026-09-23)
+- **Scraping is solved**; the moat is the **math/analysis layer** on top (rank by views/followers, transcript outliers, hook patterns → next scripts). Selling rows alone is not the business.
+- Ship internal tools (or a company) without writing code: **RapidAPI docs URL → Perplexity Python script → Lovable/Replit web app** one-shot. Framed as the actual unlock on the pod with Adrian.
+- **Google Maps → cold email** is ~four API calls: Targetron (bulk category) or Serper.dev (per-credit) → Hunter/Anymailfinder enrich → PhantomBuster crawl for contact-page Gmail → n8n/python → Sheet → Instantly. Used to need an engineer.
+- Emails behind login are not a dead end: **Hiker API** (Instagram user endpoint) returns email + followers/stories via logged-in mobile session tunneling; "looks sketchy… it works."
+- **Twitter/X data** cheaper than people think via Old Bird v2 on RapidAPI ($50/100k, $200/1M); prefer over twitterapi.io (Adrian: likely shut in ~6 months). Use the search Elon removed from UI sorted by top (e.g. "i built a") → copy what worked → ship.
+- **Influencer outreach without agency**: category → YouTube channel email finder on RapidAPI ($120/10k) → Instantly; offer = three-video package + affiliate; emails only if in channel description; still cheaper than ~$959/mo influencer search platforms.
+
+## Parasite SEO / trusted-domain publishing (X 2026-09-23)
+- **Parasite SEO**: publish on a domain Google already trusts so that domain's authority ranks your page (Gamma docs example: open publish, high organic, spam keywords gamblers wouldn't put on own domain). Platforms tolerate spam while growth-loop signups outweigh reputation cost; AI engines cite the same trusted domains. Edge = **finding the next Gamma** before everyone else does (list dated Sept 2026 as platforms catch up).
+
+## Backlinks-on-autopilot directory outreach (X 2026-09-23)
+- Marketing engineering today: scrape AI-tools directory sitemap → **Exa** find tool site URLs → waterfall email enrich → guest-blog ask; **agent** manages inbox and writes the guest post text.
+
+## Google Ads agent productized for agencies (X 2026-09-25)
+- Frame: agencies can have an **AI agent run Google Ads** end-to-end — keyword research, campaign build, optimization, negative matching, LPs from converting keywords — cloud 24/7, set up via **Claude Code / Codex** prompt, then let it run.
+- Claimed operator outcome (same case family as prior Claude Code agency note): **~90% labor cut**, more clients, one shop managing **23 clients** and cutting offshore labor. Prefer agent-run Ads ops over headcount for media buying grunt work.
+- Light ops: when asked about auto-spend comfort, answer that **spend doesn’t change** / the agent isn’t touching spend — guardrails are the point (reply 2026-09-25).
+
+## Eric Siu live / LinkedIn engagers → cold email + seed dance (X 2026-09-24)
+- On Eric Siu’s live: demoed **LinkedIn parasite SEO** blog ranking live; **waterfall email + letter** from LinkedIn post engagers into cold email; process for **seed dance ads at scale**. Extends parasite-SEO + engagers-as-outbound-signal theses.
+
+## Data-scraping stack specifics (In the Pit ep promo note 2026-09-24)
+- Public data is often public but **not exposed** via clean APIs — pull it anyway.
+- Named stack (extends prior scraping moat): RapidAPI Real-Time LinkedIn Scraper (+ scrapin.io backup), Hiker API (IG behind login), YT Contact Finder ~$120/10k, Old Bird V2 ($50/100k; prefer over twitterapi.io), Serper.dev Maps (pay-as-you-go), Targetron bulk lists, Hunter/AnyMailFinder enrich, PhantomBuster contact crawl → n8n/python → Sheet → Instantly.
+- Creator intel: Influencers Club / InfluencerMarketing.ai; short-form track Viral.app / Shortimize / Groi.io; "i built a" top search → rebuild viral formats; rank creator catalogs → transcripts → hooks.
+- No-code ship loop restated: **API docs URL → Perplexity Python → vibe coding tool** one-shots the app.
+
+## Marketing-engineering stack for agent teams (X 2026-09-26)
+- To make a Grok/Claude marketing team run SEO, GEO, paid ads, cold email: give it a **data warehouse**, **cloud server**, **media storage**, **Postgres for agents**, **cron/recurring tasks**, plus tool access — not just channel API pulls (rate limits + hard unify).
+- Plead: give Claude Code **all the tools** for marketing — Seedance 2.5 ads (Higgsfield), waterfall email enrichments (Findymail / LeadMagic / Apollo), blog research, etc. Prefer tool-complete agents over chat-only assistants.
+
+## Seedance 2.5 SaaS ads workflow (X 2026-09-26)
+- Claims Seedance 2.5 makes the best SaaS ads right now. DIY: find a real creator in-category → extract a frame → **ChatGPT image 2.5** remix (vary age/gender/background). Extends prior seed-dance-at-scale thesis with a concrete remix loop.
+
+## Agents as SOP software (not god-in-a-box) (X 2026-09-26)
+- If a human can do it on a computer, an agent can — marketing is seeing this first (research, launch, media buying, growth loops).
+- When the agent has **all the data and tools**, he frames it as **better than any human**.
+- Lived case: agent = software + thinking loop + live data stream running a Google Ads account **~6 months**; doing what a human media buyer would. Not "god in a box" — **discrete SOP** the agent executes.
+- Architecture: **data pipeline + warehouse for reads; API key only for writes**. "Your SOP can be software."
+
+## SEO-for-SaaS via Claude + DataForSEO (X 2026-09-25)
+- SEO for SaaS framed as straightforward with Claude Code + DataForSEO API: keyword research on product-related terms, content gap / Search Console as ongoing data. Prefer agentized SEO ops over manual grind.
+
+## Media as bridge to outcome (X 2026-09-26)
+- People care about the **outcome**, not the media — media is just a bridge. Make ads targeting every ICP that look/talk for that segment (reply framing).
+## Creative-is-targeting / Andromeda FB (X 2026-09-28)
+- Interest targeting is dead; **creative is the targeting**. Andromeda decides who sees the ad from script / person on screen / setting.
+- Default: target **all of Facebook** unless account-based marketing; make **5 versions** of each ad with avatars of different ages/backgrounds. Sell to mountain bikers by making the ad speak to them — don't pick the interest.
+
+## Marketing-engineer build-first checklist (X 2026-09-28)
+- **Google Ads**: bottom-of-funnel keywords via DataForSEO; deepest conversion; ad sets = keyword families; keywords+ads+LPs match; LLM negative-match non-buying intent.
+- **Facebook Ads**: scrape social for desired outcomes; statics + UGC; one Advantage+ broad CBO; optimize deepest event ~50/week; spend time on creative.
+- **LinkedIn Ads**: remix viral category posts → thought-leadership ad → save engagers for outbound.
+- **SEO**: X vs Y / alternative / review / how-to; write off page-1 + POV transcript; refresh monthly.
+- **AI search**: "it's just SEO" — best-X-for-Y from pages 1–3 gets cited.
+- **Link building**: better version of stale linked content → email the linkers.
+- **Cold email**: LinkedIn engagers → waterfall → MillionVerifier → Instantly on Hypertide; ~10k emails/mo ≈ $100.
+
+## Claude Code Max = 25-person marketing team (X 2026-09-28)
+- One person + Claude Code Max does former 25-person marketing work = **marketing engineering**: creative research, making creative, media buying, keyword research/writing/publishing, list building/outreach.
+- Operator role: give coding agent **tools + data**; **you decide what to build and check that it's working**.
+
+## Exact-match domain + one-shot directory (X 2026-09-28)
+- Cheapest traffic: buy exact-match domain for customer search → Claude Code one-shots directory site → Vercel → Search Console index → free traffic → run "ads" on it promoting product.
+
+## Cold-email infra economics (X 2026-09-28)
+- ~$125/mo infra → ~10k cold emails/mo; Hypertide inboxes + Instantly; ~1,000 inboxes connected. At that volume cold email becomes **one-to-one marketing at scale**, not a blast channel.
+- Microsoft spam: tenants pool senders — bad tenant kills deliverability. Hypertide: ~100 inboxes/domain, 2 domains/tenant so burn doesn't kill the rest. Inbox Kit = more self-service; Instantly pre-warmed domains = great deliverability, not branded.
+
+## Paid ads SaaS playbook + unit economics (X 2026-09-28)
+- Google: BOFU product keywords, phrase match, keyword in LP H1 + first paragraph, conversion = signup + payment.
+- Facebook: all-of-FB, 20 new creatives/week, winners → own campaign dedicated spend, LP matches ad, same conversion events.
+- One dashboard; judge on **CAC vs LTV vs payback**; **$1 in → $5 LTV** = good.
+
+## What a marketing engineer does (X 2026-09-28)
+- Definitional list: write copy AND scripts for 200 variations; Seedance→ffmpeg→json2video→FB Ads API; 500 long-tail LPs from Search Console page-2 keywords; server-side conversion tracking; offline conversions from closed-won; auto-kill ad sets at CPA +30%; Meta Ad Library scrape/cluster; podcast→15 clips; free "[x] generator" tools; blog + Google Indexing API same hour; track ChatGPT/Perplexity citations; agent drafts from top 50 posts; UTM hygiene; CRM customer match; pricing-page webhook emails; ship LP without eng ticket; Stripe+HubSpot+Google Ads CAC; hourly spend-vs-pipeline dashboard; Claude Code morning Ads audit. Job = agency + marketing ops + freelance dev.
+
+## FB ad generator via Claude Code (X 2026-09-28)
+- Loop: Claude finds ICP pain/desired outcomes → ad copy variations → ad template in code → brand fonts/colors → PNG export → bulk upload via FB Ads API → track winners in warehouse. "All of it is api calls. you come up with the ideas and polish the output."
+
+## Build-internally then subscribe (X 2026-09-28)
+- Case pattern: prospects say they'll build marketing-engineering cloud internally → months later burn ~$30k tokens maintaining it + core product → subscribe, onboard whole team in a day, first marketing agent from template in 24h. Prefer buy/subscribe over DIY ME cloud when core product is the real job.
+
+## $1M ARR channel pick (transactional first) (X 2026-09-29)
+- Most startups can hit **$1M ARR with just two channels** from: paid ads, cold email, cold DMs, founder-led social — **not** from SEO, email newsletter, podcast guesting, YouTube.
+- First list = revenue tomorrow; second pays off ~12 months. Personal-finance analogy: young company = 80% surviving / 20% investing; flip later. Extends early-stage transactional-first thesis with an explicit channel menu.
+
+## Own your waterfall enrichment (X 2026-09-29)
+- Stop paying VC-backed tools a huge markup for waterfall enrichment — it's **API calls + CPU** on a server.
+- Chain: getleads → icypeas → prospeo → leadmagic → fullenrich → findymail → bettercontact → datagma → apollo; only call next if prior found nothing. One Python script from a coding agent; store TAM/SAM/SOM in Postgres; **own your own data**.
+
+## LinkedIn parasite SEO ranked live (X 2026-09-29)
+- Claimed: LinkedIn article **#1 on Google in 38 minutes** (keyword: facebook ads for kitchen remodeling), demoed live on a podcast.
+- Loop: Serper.dev page-1 scrape → Exa/Firecrawl full text → Claude article off what's ranking → publish as LinkedIn company-page article (free) with keyword as exact title/URL → Prime Indexer submit; LinkedIn's domain does the ranking. Concrete parasite-SEO playbook.
+
+## One-person ME day ship list (X 2026-09-29)
+- One person + Claude Code can ship in a day: 40 FB ads, 30 Google ad groups, 100 LPs, 3 guest posts, 4 podcast bookings, 5 help-desk articles, 2 edited vlogs, 25 scheduled tweets across 3 accounts, 2 free tools.
+- Stack: Claude Code + data pipeline + warehouse + server + GitHub repo + skill files — "what a Fortune 500 marketing team does in a year."
+
+## Cold email to LinkedIn engagers (template) (X 2026-09-29)
+- Subject: saw your comment on my linkedin. Body: saw the comment → checked their FB ads library (handful of creative) → offer **80 new creatives/month + agent media buying** → ask for a call. Short, specific, one offer. Prompt: "extremely concise" / economy of words.
+
+## Claude Code + Keywords Everywhere + DataForSEO = SEO team (X 2026-09-29)
+- Two API keys in `.env` beat most SEO agencies for SaaS: keyword universe (related + PASF) → DataForSEO SERP → content calendar; programmatic LPs per vertical with schema; domain-intersection link gaps → scrape contacts → page-specific outreach; topical-cluster internal links; on-page API audits that write the fix.
+
+## Marketing is turning into code (X 2026-09-29)
+- Seedance video = JSON to a GPU API; uploading to Facebook = software publishing; results analysis = SQL against the warehouse. If the work is code, a coding agent can do it — that's where marketing is going.
+
+## Free AI training as B2B lead magnet (X 2026-09-29)
+- Best B2B lead magnet now: free AI training that gets the buyer **one specific outcome**. Training = product demo in disguise (classic VSL). You become the bridge from wanting AI to actually doing it.
+
+## Meta Ad Library creative research loop (X 2026-09-29)
+- Mapped every US car-detailing ad via FB Ad Library → multimodal model describes each image/video → find angles that recur across cities → those are starting creatives before spending a dollar. Prefer competitor-angle frequency over inventing cold.
+
+## Influencer live-class cold outbound (X 2026-09-29)
+- Best cold outbound offer currently: find category influencer → record a live class with them → email engagers on their posts offering the recording → recording is a **demo of your product in disguise**.
+
+## Category Facebook Ad Library map → gap ads (X 2026-09-30)
+- Before making ads: pull every competitor's **Facebook Ad Library** (Apify), have Gemini describe images/videos (angles/promises/outcomes), map how the category talks about itself.
+- Have Claude find **gaps nobody is claiming**; validate gaps via Reddit (Exa); make ads for gaps (nano banana / seed dance); upload via Facebook Ads API; next day warehouse read → kill losers, promote winners to own ad sets; deploy the loop to a server. Extends Ad Library creative map.
+
+## TAM-map outbound / signal watch (X 2026-09-30)
+- Best outbound teams **watch a map**, don't blast lists: TAM map (every company, size, headcount, DM) + signals (category content engagement, site visit / Leadpipe de-anon, job change) → outbound when someone lights up. Was a technical team; now Claude Code + a few APIs.
+
+## Keyboard marketing → Claude Code closed loop (X 2026-09-30)
+- Every marketing task where you touch a keyboard can be Claude Code + APIs; the whole loop can run without you. Example: ad generator → bulk upload → AI analyst warehouse winners/losers → kill losers / scale winners → winners shape next batch. Apply to SEO, cold email, social, PR, help docs, prospecting. Extends marketing→code.
+
+## Creative test budget / loops (X 2026-09-30)
+- Start most software cos at **$100/day Facebook + $100/day Google**. Trust data by week 6 (sometimes week 1). Run **2–3 creative loops/week**; once CAC trusted → CAC vs LTV.
+
+## SEO + AI-search dashboard (X 2026-09-30)
+- Most companies miss that **AI search already sends traffic**. Claude Code dashboard off GA4 + Search Console (~5 min): AI search tab (ChatGPT/Perplexity/Gemini), paid ads tab (keywords already top-3 organic — cut paid), organic tab (sessions/conversions/landings). Drives what content to write and where budget goes.
+
+## n8n → Claude Code (X 2026-09-30)
+- Friends don't let friends build lead workflows in **n8n** node-wrestling. Describe the workflow to Claude Code; code is more discrete/flexible; change any part in one sentence.
+
+## B2B ad formats that don't look like ads (X 2026-09-30)
+- Best B2B formats now: **iMessage conversation screenshots, Slack thread screenshots, Apple Notes, AI UGC** — none look like ads.
+
+## AI articles that sound like the company (X 2026-09-30)
+- Record ~30 min founder conversation (market + differentiation), transcribe; give model **page-1 ranking articles + transcript**. Page 1 = what Google wants; transcript = voice.
+
+## Cold-call LinkedIn engagers (X 2026-09-30)
+- Cold call ~1,000/month who engaged with LinkedIn posts about your product → discovery calls → buy. Blocker is **ego** — pick up the phone. Pairs with LinkedIn engager cold email template.
+
+## AI UGC fakeness = audio mismatch (X 2026-09-30)
+- Fake AI UGC usually fails on **audio**: voice that sounds real + avatar that fits voice + audio that fits the room (car must sound like a car). Uses Natasha voice on ElevenLabs and builds avatar around it.
+
+## Lean marketing team / style-guide gate (X 2026-10-01)
+- Small team (founders + forward-deployed engineers + sales) can ship thousands of ads/month if every creative passes a **brand style guide gate** — volume without slop. This is what a modern marketing team looks like.
+
+## Own-data agents beat SaaS SEO tools (X 2026-10-01)
+- Warehouse Search Console + GA4; give Claude Code access → page-2→1 keyword pushes, title/heading rewrites, search mapping. Subscription SEO tools do less than an agent on your data.
+- Daily SEO agent loop: target keywords → scrape page 1 → write in brand voice → publish via CMS API (Strapi) → 30-day Search Console refresh.
+
+## Creative telemetry / LinkedIn engagers (X 2026-10-01)
+- Persist prompt/script/avatar/settings JSON for every generated ad; join to Facebook Ads data to learn which inputs win; daily ~10 new ads into CBO.
+- Competitors' LinkedIn ads = free lead list: listen on ad URLs; likers/commenters are category hand-raisers; scrape engagers → email/phone daily.
+
+## Token maxing vs software agents (X 2026-10-01)
+- Don't pay a frontier model every time you schedule a social post — have the coding agent **write software** (thinking loop + live data stream) that does the job. Google Ads agent as software, not "god in a box."
+
+## Low-IQ simplicity vs midwit complexity (X 2026-10-01)
+- Cold email: list + four sentences + one offer + volume beats 40 domains/120 mailboxes/warmup theater.
+- Facebook ads: one broad USA campaign, lots of ads, kill losers — beats 14 interest/LAL ad sets and ABO learning traps.
+
+
+## MATG live demo / agent cadence (2026-09-24)
+- An agent is **software + thinking loop + live data stream** making decisions — not “God in a box” left unsupervised on an ad account. Prefer deterministic software for the cheap path; use LLM inference only where you need judgment (MATG; also X “token maxing is dumb”).
+- Creative volume under Andromeda-class targeting: ship **~10 new ads/day** so learning loops can run (2–3 cycles/week → ~300/mo). Dumping hundreds at once stalls the learning phase unless budget is huge. Tag each static as a JSON/SKU in Postgres and join warehouse FB performance so the coding agent sees which inputs win (MATG).
+- **Persona matrix / field of view**: iterate emotional triggers + situations until the market response narrows — same marketing logic, higher velocity (MATG).
+- Case he cites: PE portfolio ~250 physical locations — Google CPL ~$70→$35 and FB CPL ~$80→$15 in ~4 weeks on the same budget via creative volume + negative-match agents; frames ops as **day-trading ad channels** / a quant layer on the stack (MATG).
+- Trust before volume: front-load brand style guides, historical ads, and human-in-the-loop gates (esp. regulated language). “No human can look at a thousand ads a month” and still do their other job — so encode brand/pain-point rules into the system (MATG).
+- Google Ads agent pattern: daily Ads+GA feedback that **rewrites its own deterministic software**; SEO agent researches bottom-funnel → writes → CMS API publish → refresh (the refresh is what teams miss) (MATG).
+- Start small: put platform API keys in a local env file and make your daily-driver coding agent do a real manual task (HubSpot cleanup, etc.), then turn the working conversation into a scheduled coded agent (MATG).
