@@ -233,3 +233,15 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 190. "this agent… every day is checking the data… from Google Ads and from Google Analytics and then it's rewriting its own software." — MATG Ep.456
 191. "I think about it as like co working with like a team member" / "turn this into like a process, into a repeatable process. That is code, that is an agent" — MATG Ep.456
 192. "give… your daily driver… API keys… stored locally in an environment file and just have it go and try to do work for you" — MATG Ep.456
+
+## Exact quotes — nurture / agent workflows / creator UGC (X 2026-10-04–08)
+193. "the email nurture sequence we use after a signup" / "right away: welcome / 1 hour: how to use the product / day 1: why we built it / day 2: what it is / day 3: any questions? / day 4: case study / day 5: case study / simple and it works" — X — https://x.com/codyschneider/status/2106866963091734823 (2026-10-04)
+194. "this email nurture sequence will be studied by future generations / it will be an artifact in liminal spaces" — X — https://x.com/codyschneider/status/2107470963092733996 (2026-10-06)
+195. "im so dumb why didn't I do this sooner" / "do the task once with claude code as a co-worker. get the output you need by massaging it and through specific delicate encouragement" — X — https://x.com/codyschneider/status/2107501140178862360 (2026-10-06)
+196. "step 2, that chat log is now the spec / step 3, have it turn the chat into a repeatable script" — X — https://x.com/codyschneider/status/2107093484674994189 (2026-10-05)
+197. "rage bait as your marketing strategy totally works in the long run when everyone hates the brand and chooses a different company with a worse product bc they hate tf out of your brand" — X — https://x.com/codyschneider/status/2107199146738295027 (2026-10-05)
+198. "you pay per video. one campaign we run pays $40 per UGC video" / "or pay creators a % of the spend on their video, like 3% of $1,000, so you only pay for winners" — X — https://x.com/codyschneider/status/2107153851153301581 (2026-10-05)
+199. "leadership told them they can't hire anyone else / they can only use AI for their marketing operations / so figure it out" / "this story isn't new, we're seeing it everywhere right now" — X — https://x.com/codyschneider/status/2107214244680769772 (2026-10-05)
+200. "i built a listener that turns 10 linkedin creators into a lead list every day" / "pick 10 creators your customer follows" — X — https://x.com/codyschneider/status/2107486051426091090 (2026-10-06)
+201. "skill issue done it with a linkedin page with less than 1000 followers" — reply — https://x.com/codyschneider/status/2108071430877478916 (2026-10-08)
+202. "so anyway this is going to be a very big company" — reply — https://x.com/codyschneider/status/2107551060512723025 (2026-10-06)
