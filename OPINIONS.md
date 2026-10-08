@@ -347,3 +347,18 @@ Operator opinions distilled from Cody’s labeled public interviews (Napier/Swel
 - Trust before volume: front-load brand style guides, historical ads, and human-in-the-loop gates (esp. regulated language). “No human can look at a thousand ads a month” and still do their other job — so encode brand/pain-point rules into the system (MATG).
 - Google Ads agent pattern: daily Ads+GA feedback that **rewrites its own deterministic software**; SEO agent researches bottom-funnel → writes → CMS API publish → refresh (the refresh is what teams miss) (MATG).
 - Start small: put platform API keys in a local env file and make your daily-driver coding agent do a real manual task (HubSpot cleanup, etc.), then turn the working conversation into a scheduled coded agent (MATG).
+
+## Post-signup nurture sequence (X 2026-10-04/06)
+- Default lifecycle email after signup is deliberately simple: welcome immediately → product how-to/quickstart at 1 hour → day 1 why we built it (for you) → day 2 what it is → day 3 founder check-in / any questions? → days 4–5 case studies. "simple and it works" — he jokes it "will be studied by future generations."
+
+## Task → agent workflow, chat log as spec (X 2026-10-05/06)
+- Do the marketing task once with Claude Code as a co-worker, iterate ("massaging it… specific delicate encouragement") until the output is right; the chat log becomes the spec; have it write a repeatable script; deploy it to a server on a schedule. Same co-worker → process → code pattern as MATG, now his standard recipe.
+
+## Rage bait is a losing long game (X 2026-10-05)
+- Sarcastic dunk on rage-bait marketing: it "totally works in the long run" when people hate the brand and pick a worse competitor out of spite. Prefers brand goodwill over outrage engagement.
+
+## Creator UGC at scale / paid pipeline cases (X 2026-10-05)
+- Startups get creator UGC via marketplaces (SideShift, Tribe): pay per video (~$40/video on one campaign) or a % of ad spend on that video (e.g. 3% of $1,000) so you only pay for winners; SideShift has an API so agents can run it.
+- Cases he cites: AI startup **102 demos booked from Facebook ads** in a month with creative from SideShift UGC + AI-avatar UGC, winners from each informing the other; 100+ location franchise **349 leads** for corporate locations in 60 days, ~40 new statics/week by demographic, now rolling out to other locations.
+- Pattern he sees "everywhere": a 200-person software company with 2 growth people, told no new hires and to use AI for marketing ops — the demand behind marketing engineering. Getting all GTM data into one place (pipeline, warehouse, ontology, self-checks for false positives, charting tools) is "the most impactful thing a GTM team can do this year."
+- LinkedIn creator listener: pick 10 creators your customer follows, pull the 50–100 engagers per new post daily, waterfall-enrich emails, validate (MillionVerifier), load into outbound. Extends competitor-engager lead lists.
