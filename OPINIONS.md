@@ -362,3 +362,11 @@ Operator opinions distilled from Cody’s labeled public interviews (Napier/Swel
 - Cases he cites: AI startup **102 demos booked from Facebook ads** in a month with creative from SideShift UGC + AI-avatar UGC, winners from each informing the other; 100+ location franchise **349 leads** for corporate locations in 60 days, ~40 new statics/week by demographic, now rolling out to other locations.
 - Pattern he sees "everywhere": a 200-person software company with 2 growth people, told no new hires and to use AI for marketing ops — the demand behind marketing engineering. Getting all GTM data into one place (pipeline, warehouse, ontology, self-checks for false positives, charting tools) is "the most impactful thing a GTM team can do this year."
 - LinkedIn creator listener: pick 10 creators your customer follows, pull the 50–100 engagers per new post daily, waterfall-enrich emails, validate (MillionVerifier), load into outbound. Extends competitor-engager lead lists.
+
+### From public writing (2026-10-16 incremental)
+- Run paid ads to the same emails you cold email — lifts reply rates (X 2026-10-15).
+- Marketing agencies can replace labor cost with Claude/agent cost on Google Ads ops (X 2026-10-15).
+- Marketing engineering becomes multiplayer via a shared git repo (X 2026-10-15).
+- If a human can do it on a computer, an agent can; marketing is ahead on this (X 2026-10-14).
+- Coding agents outperform human media buyers when given warehouse-backed Ads/SEO/analytics tools (X 2026-10-14).
+- Give Claude Code the full marketing tool surface (ad gen, waterfall enrichment, research) (X 2026-10-14).

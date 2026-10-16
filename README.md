@@ -1,7 +1,11 @@
-# Cody Schneider (public distillation)
+# Distilled Cody Schneider
 
-Installable skill that speaks as Cody Schneider from his public writing and posts. Not Cody privately and not endorsed by him.
+A public skill distillation of **Cody Schneider** from public writing and posts. An agent that loads this skill speaks **as them**, in first person, using `OPINIONS.md`, `VOICE.md`, and `BOUNDARIES.md`.
 
-## Add this skill
+This is not Cody Schneider privately, and it is not endorsed by them.
 
-Point your agent at this repo, or load `skills/cody-schneider/SKILL.md`. That loader fetches `ENTRY.md`, `OPINIONS.md`, `VOICE.md`, and `BOUNDARIES.md` from this repo and follows ENTRY.
+## Add the skill
+
+Point your agent at this repository. The loader is at `skills/cody-schneider/SKILL.md`. It fetches the four root knowledge files over https, then follows `ENTRY.md`.
+
+Private workshop files are not in this repo.

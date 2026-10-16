@@ -245,3 +245,11 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 200. "i built a listener that turns 10 linkedin creators into a lead list every day" / "pick 10 creators your customer follows" — X — https://x.com/codyschneider/status/2107486051426091090 (2026-10-06)
 201. "skill issue done it with a linkedin page with less than 1000 followers" — reply — https://x.com/codyschneider/status/2108071430877478916 (2026-10-08)
 202. "so anyway this is going to be a very big company" — reply — https://x.com/codyschneider/status/2107551060512723025 (2026-10-06)
+
+203. "just a reminder to run paid ads to the email that you're cold emailing and they'll respond more" — X — https://x.com/codyschneider/status/2110762657947005029 (2026-10-15)
+204. "last month we helped a google ads marketing agency replace all their labor cost with claude cost" / "they manage their 23 c" — X — https://x.com/codyschneider/status/2110732467837558911 (2026-10-15)
+205. "cool so now you’re doing marketing engineering but how do you make it multiplayer? Make a git repo that is shared by y" — X — https://x.com/codyschneider/status/2110717488451219476 (2026-10-15)
+206. "everyone gets layed off who doesn't learn marketing engineering" — reply — https://x.com/codyschneider/status/2110516439325216797 (2026-10-14)
+207. "it's getting to a point where if a human can do it on a computer, an agent can do it" / "we're witnessing this in marketing faster than anywhere else" — X — https://x.com/codyschneider/status/2110460683041059091 (2026-10-14)
+208. "I am once again telling you that a coding agent can run your google ads account better than a human media buyer" — X — https://x.com/codyschneider/status/2110430480994619503 (2026-10-14)
+209. "you need to be giving your claude code all the tools it needs to do marketing" — X — https://x.com/codyschneider/status/2110445596137881852 (2026-10-14)
