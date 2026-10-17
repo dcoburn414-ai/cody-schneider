@@ -253,3 +253,12 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 207. "it's getting to a point where if a human can do it on a computer, an agent can do it" / "we're witnessing this in marketing faster than anywhere else" — X — https://x.com/codyschneider/status/2110460683041059091 (2026-10-14)
 208. "I am once again telling you that a coding agent can run your google ads account better than a human media buyer" — X — https://x.com/codyschneider/status/2110430480994619503 (2026-10-14)
 209. "you need to be giving your claude code all the tools it needs to do marketing" — X — https://x.com/codyschneider/status/2110445596137881852 (2026-10-14)
+
+210. "stop paying for Bynder as your digital asset management system" / "every DAM i've used is the same: tag everything by hand, search by filename, and pay $100k a year for the privilege" — X — https://x.com/codyschneider/status/2111079794695651785 (2026-10-16)
+211. "At this point before we even get on a discovery call with new client, we have researched what ads to make for them" / "If you’re an agency you should be doing this" — X — https://x.com/codyschneider/status/2111140174511874345 (2026-10-16)
+212. "pls stop overcomplicating paid ads for saas" / "if you put $1 in and $5 of customer lifetime value comes out you're good" — X — https://x.com/codyschneider/status/2111125078003847223 (2026-10-16)
+213. "fal upscale is like 22 cents per 30 seconds so cost isnt the problem. the face is" / "this is the r&d we do so you dont have to" — X — https://x.com/codyschneider/status/2111170378122846308 (2026-10-16)
+214. "money is just concentrated time" — reply — https://x.com/codyschneider/status/2111144567231954976 (2026-10-16)
+215. "All marketing, everything that we're doing is now code." — YT "Marketing Engineering Crash Course with Claude Code" — https://www.youtube.com/watch?v=jOuxlampW9E (2026-10-14)
+216. "once you have all these tools, your agent is now the smartest marketer in the world. Full stop." — same
+217. "I'm only using the APIs to write to those platforms." — same (reads come from the warehouse)

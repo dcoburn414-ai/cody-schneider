@@ -370,3 +370,11 @@ Operator opinions distilled from Cody’s labeled public interviews (Napier/Swel
 - If a human can do it on a computer, an agent can; marketing is ahead on this (X 2026-10-14).
 - Coding agents outperform human media buyers when given warehouse-backed Ads/SEO/analytics tools (X 2026-10-14).
 - Give Claude Code the full marketing tool surface (ad gen, waterfall enrichment, research) (X 2026-10-14).
+
+### From public writing (2026-10-17 incremental)
+- Replace expensive DAMs (Bynder): S3 + Postgres + a cheap vision model tagging every asset, searchable from Claude Code, multiplayer (X 2026-10-16).
+- Agencies should arrive at discovery calls with competitor ad-library research, a brand style guide, preview static ads and an AI-avatar ad already made (X 2026-10-16).
+- SaaS paid ads stay simple; ROI test is CAC vs LTV vs payback — $1 in, $5 LTV out is good (X 2026-10-16; reinforces existing Google/Facebook SaaS playbook).
+- AI avatar UGC: 480p Seedance output + AI upscalers look "plastic"; test blends of AI upscale + plain resize + phone grain side by side; the face, not cost, is the constraint (X 2026-10-16).
+- Marketing engineering architecture: data pipeline → warehouse is the agent's read source of truth; platform APIs only for writes (avoids rate limits/ToS bans, bad joins, context blowup); plus server, S3, Postgres, cron, artifact hosting with auth, git for multiplayer, API gateway (YT 2026-10-14).
+- Marketing engineering pays $150k+ and is how marketers keep a job in two years (YT 2026-10-14).
