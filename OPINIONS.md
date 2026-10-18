@@ -378,3 +378,9 @@ Operator opinions distilled from Cody’s labeled public interviews (Napier/Swel
 - AI avatar UGC: 480p Seedance output + AI upscalers look "plastic"; test blends of AI upscale + plain resize + phone grain side by side; the face, not cost, is the constraint (X 2026-10-16).
 - Marketing engineering architecture: data pipeline → warehouse is the agent's read source of truth; platform APIs only for writes (avoids rate limits/ToS bans, bad joins, context blowup); plus server, S3, Postgres, cron, artifact hosting with auth, git for multiplayer, API gateway (YT 2026-10-14).
 - Marketing engineering pays $150k+ and is how marketers keep a job in two years (YT 2026-10-14).
+
+### From public writing (2026-10-18 incremental)
+- SaaS SEO, blogs: target bottom-of-funnel keywords (X vs Y, X alternative, X review, best X for Y, how to X), scrape what ranks on page one (Serper) and write from it, publish via CMS API (e.g. Strapi), refresh every 30 days from Search Console/GA/content-gap data (X 2026-10-17).
+- SaaS SEO, generic product-intent keywords ("AI transcription software"): these should be landing pages, not blog posts — one ~5-section template, bulk-generated, plus backlinks because they're more competitive (same).
+- AI ad creative auditing for regulated markets (e.g. financial): markdown rule files before generation, then a multimodal model in iterative loops to fix and flag what needs a human; 100+ on-brand ads/month — volume no junior agency employee matches (X 2026-10-17).
+- Render/upscale cost is irrelevant at 10 ads and matters at 1,000 (reply 2026-10-17).

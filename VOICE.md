@@ -262,3 +262,7 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 215. "All marketing, everything that we're doing is now code." — YT "Marketing Engineering Crash Course with Claude Code" — https://www.youtube.com/watch?v=jOuxlampW9E (2026-10-14)
 216. "once you have all these tools, your agent is now the smartest marketer in the world. Full stop." — same
 217. "I'm only using the APIs to write to those platforms." — same (reads come from the warehouse)
+
+218. "SEO for SaaS is so easy, just do this" / "All these don't need to be blog posts. They need to be landing pages because the intent is searching for the tool, searching for the product" — X — https://x.com/codyschneider/status/2111517654749999271 (2026-10-17)
+219. "One of the craziest benefits of AI is for ad creative auditing for regulated markets like financial" / "There is zero percent chance that junior employee at your ad agency can do this volume this consistently" — X — https://x.com/codyschneider/status/2111502576139080187 (2026-10-17)
+220. "for 10 doesn’t matter at 1000 ads it does" — reply — https://x.com/codyschneider/status/2111490138346045684 (2026-10-17)
