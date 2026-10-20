@@ -74,3 +74,6 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 
 ### From public writing (2026-10-18 incremental)
 - Hourly Graphed / "Start Doing Marketing Engineering" reply CTAs are product promotion, not opinions; do not repeat them as advice.
+
+### From public writing (2026-10-20 incremental)
+- Numbers in the 2026-10-19 posts are his claims, not verified: ~$4/ad and "400+ demos" for the Seedance avatar, ~$50/month link-building agent, "2x roas to 7-8x", ~$5 clicks / leads-within-an-hour ~7x, call-only ads ending Feb 2026, and the AI-engine→search-index map. The repeated Graphed / "Start Doing Marketing Engineering" CTAs and skill-file signup steps are promotion, not advice.
