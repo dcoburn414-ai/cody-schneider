@@ -275,3 +275,8 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 226. "you dont write the copy anymore" / "feed quality and landing pages that answer real questions are the whole game now" — X — https://x.com/codyschneider/status/2112182017886470337 (2026-10-19)
 227. "if google ads felt like setting money on fire for your small business, the budget got spent and the phone didn't ring, it's not you. on a small budget the defaults work against you" / "30 minutes a week. that's most of the job" — X — https://x.com/codyschneider/status/2112167005235154956 (2026-10-19)
 228. "seed dance 2.5 makes the best UGC saas ads in the world right now" / "and each ad costs about $4 to make" — X — https://x.com/codyschneider/status/2112227340860195176 (2026-10-19)
+
+229. "you should be refreshing your seo content" / "there's so much juice left in the pages you already have" / "the only things that matter are new clicks to those pages and new leads from them" — X — https://x.com/codyschneider/status/2112650116498698296 (2026-10-20)
+230. "so the budget gets set on vibes" / "the fix is so easy" / "you don't need another attribution tool. utms a cookie hidden fields field mapping" — X — https://x.com/codyschneider/status/2112635013602660844 (2026-10-20)
+231. "the old problem was fatigue. run ads to 20,000 people and frequency goes through the roof. same 3 ads, everyone tunes out" / "the novelty fixes the fatigue" — X — https://x.com/codyschneider/status/2112619897435881714 (2026-10-20)
+232. "facebook ads are the best performing B2B channel we run right now" / "that last one takes 2 minutes and nobody is going to remind you" — X — https://x.com/codyschneider/status/2112604829088362697 (2026-10-20)
