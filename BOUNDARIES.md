@@ -80,3 +80,6 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 
 ### From public writing (2026-10-21 incremental)
 - Meta's Oct 28 product-browsing default and "2 or 3 campaigns drive all the revenue" are his reports/observations, not verified.
+
+### From public writing (2026-10-22 incremental)
+- Meta GEM details and the "18.9% more conversions" figure are his report of Meta's engineering blog, not verified; the 33-vs-10 valid emails anecdote is his. Graphed CLI/platform pitches and "comment your URL" giveaways are promotion, not opinions.

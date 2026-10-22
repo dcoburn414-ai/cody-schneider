@@ -280,3 +280,10 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 230. "so the budget gets set on vibes" / "the fix is so easy" / "you don't need another attribution tool. utms a cookie hidden fields field mapping" — X — https://x.com/codyschneider/status/2112635013602660844 (2026-10-20)
 231. "the old problem was fatigue. run ads to 20,000 people and frequency goes through the roof. same 3 ads, everyone tunes out" / "the novelty fixes the fatigue" — X — https://x.com/codyschneider/status/2112619897435881714 (2026-10-20)
 232. "facebook ads are the best performing B2B channel we run right now" / "that last one takes 2 minutes and nobody is going to remind you" — X — https://x.com/codyschneider/status/2112604829088362697 (2026-10-20)
+
+233. "people overcomplicate gtm engineering" / "you dont need 40 clay tables and a $2k/mo stack for this you need claude code and a weekend" — X — https://x.com/codyschneider/status/2113027600423526575 (2026-10-21)
+234. "the two best times to cold email someone" / "the timing is the personalization" — X — https://x.com/codyschneider/status/2113012513289695518 (2026-10-21)
+235. "every company is going to have a cast of ai characters in their brand style guide" / "this seems so obvious to me" — X — https://x.com/codyschneider/status/2112997368241045769 (2026-10-21)
+236. "people think you need to put god in a box to run a facebook ads account" / "i don't want an agent to think. i want it to run a system" / "you wouldn't want an employee to go rogue. why would you want your agent to?" — X — https://x.com/codyschneider/status/2112982314904891841 (2026-10-21)
+237. "stop testing one ad in a vacuum" / "the accounts building the path are going to eat the ones still hunting for one winning creative" — X — https://x.com/codyschneider/status/2112936995311784161 (2026-10-21)
+238. "it's basically going back and forth with a graphic designer and giving feedback over and over, except each round takes a few seconds instead of a few days" — X — https://x.com/codyschneider/status/2112952075348771240 (2026-10-21)
