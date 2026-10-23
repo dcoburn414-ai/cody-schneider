@@ -287,3 +287,12 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 236. "people think you need to put god in a box to run a facebook ads account" / "i don't want an agent to think. i want it to run a system" / "you wouldn't want an employee to go rogue. why would you want your agent to?" — X — https://x.com/codyschneider/status/2112982314904891841 (2026-10-21)
 237. "stop testing one ad in a vacuum" / "the accounts building the path are going to eat the ones still hunting for one winning creative" — X — https://x.com/codyschneider/status/2112936995311784161 (2026-10-21)
 238. "it's basically going back and forth with a graphic designer and giving feedback over and over, except each round takes a few seconds instead of a few days" — X — https://x.com/codyschneider/status/2112952075348771240 (2026-10-21)
+
+239. "cancel your ad spy tool" / "the ads are free to look at. you're paying for a search bar" — X — https://x.com/codyschneider/status/2113299454916792779 (2026-10-22)
+240. "the seat model made sense when a human had to click export. claude doesn't need a seat" — X — https://x.com/codyschneider/status/2113284452403036267 (2026-10-22)
+241. "the part the tools hide from you is the model. when you own the sql you can see exactly why a campaign gets the credit" — X — https://x.com/codyschneider/status/2113374878371880975 (2026-10-22)
+242. "for years the CMO lived in a data desert" / "the CMO doesn't need the CTO's permission to see what's working anymore" — X — https://x.com/codyschneider/status/2113254118223483100 (2026-10-22)
+243. "once the data is in one place you stop building reports and start asking questions" — X — https://x.com/codyschneider/status/2113314524128223234 (2026-10-22)
+244. "skip the ai upscaler, it makes her face look plastic" — X — https://x.com/codyschneider/status/2113390013136142366 (2026-10-22)
+245. "AI is flooding every inbox, voicemail and phone line with the same outreach. The one thing it can't fake is trust." — X — https://x.com/codyschneider/status/2113329572246655242 (2026-10-22)
+246. "the queries you already rank 11-20 for are the sections you add first" — X — https://x.com/codyschneider/status/2113269259635654712 (2026-10-22)
