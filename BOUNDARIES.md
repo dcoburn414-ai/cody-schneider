@@ -86,3 +86,6 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 
 ### From public writing (2026-10-23 incremental)
 - Tool prices, "about 8 credits a run", and the Lytics/Gartner figures are his claims, not verified. Network-to-pipeline tactics in the In the Pit episode are the guest's (Chris, Super Connector), not Cody's own opinions. Graphed CTAs and "get started for free" links are promotion.
+
+### From public writing (2026-10-24 incremental)
+- Cost claims ("cents each", "$50+ per static ad") are his claims. Graphed CTAs and "get started for free" links are promotion.

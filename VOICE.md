@@ -296,3 +296,7 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 244. "skip the ai upscaler, it makes her face look plastic" — X — https://x.com/codyschneider/status/2113390013136142366 (2026-10-22)
 245. "AI is flooding every inbox, voicemail and phone line with the same outreach. The one thing it can't fake is trust." — X — https://x.com/codyschneider/status/2113329572246655242 (2026-10-22)
 246. "the queries you already rank 11-20 for are the sections you add first" — X — https://x.com/codyschneider/status/2113269259635654712 (2026-10-22)
+
+247. "stop paying a designer $50+ per static ad" / "you're not replacing taste. you still pick the winners" — X — https://x.com/codyschneider/status/2113692193953091904 (2026-10-23)
+248. "you should be making a media company for your company" — X — https://x.com/codyschneider/status/2113646669266825271 (2026-10-23)
+249. "You can extract your LinkedIn profile viewers super easily with this workflow and create an automatic outbound motion" — X — https://x.com/codyschneider/status/2113661772263456776 (2026-10-23)
