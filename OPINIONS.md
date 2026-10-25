@@ -417,3 +417,6 @@ Operator opinions distilled from Cody’s labeled public interviews (Napier/Swel
 - Static ads with Claude Code + GPT Image 2 for cents each: scrape your site into a brand style guide, pull competitor ads from the Meta ad library and pain points from Reddit, write 20 concepts (one pain point + one desired outcome each), generate at 3:4, have a vision model check against the guide, upload winners as paused ads — you're replacing the 3-day turnaround, not taste (X 2026-10-23).
 - Build a media company for your company: platforms give free reach to content that keeps people on-platform (more ad inventory for them); AI agents can now run many LinkedIn/X/YouTube/TikTok/IG accounts to drive discovery and inbound (X 2026-10-23).
 - LinkedIn profile-viewer outbound: LinkedIn Premium de-anonymizes viewers → PhantomBuster extracts new viewers → ICP filter → HeyReach DM sequence → waterfall enrichment for email → cold email on Instantly with an offer (X 2026-10-23).
+
+### From public writing (2026-10-25 incremental)
+- Price distribution in AI terms: think of it as tokens cost per thousand impressions (X 2026-10-24, quoting @ecommcowboy).

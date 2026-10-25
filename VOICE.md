@@ -300,3 +300,5 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 247. "stop paying a designer $50+ per static ad" / "you're not replacing taste. you still pick the winners" — X — https://x.com/codyschneider/status/2113692193953091904 (2026-10-23)
 248. "you should be making a media company for your company" — X — https://x.com/codyschneider/status/2113646669266825271 (2026-10-23)
 249. "You can extract your LinkedIn profile viewers super easily with this workflow and create an automatic outbound motion" — X — https://x.com/codyschneider/status/2113661772263456776 (2026-10-23)
+
+250. "you should be thinking about distribution as tokens cost per thousand impressions" — X — https://x.com/codyschneider/status/2114126661499371790 (2026-10-24)
