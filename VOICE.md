@@ -302,3 +302,10 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 249. "You can extract your LinkedIn profile viewers super easily with this workflow and create an automatic outbound motion" — X — https://x.com/codyschneider/status/2113661772263456776 (2026-10-23)
 
 250. "you should be thinking about distribution as tokens cost per thousand impressions" — X — https://x.com/codyschneider/status/2114126661499371790 (2026-10-24)
+
+251. "I swear to god every founder who starts with SEO and a podcast is confused why there's no revenue in month 4" — X — https://x.com/codyschneider/status/2115171738908536967 (2026-10-27)
+252. "its seo. you just have to rank on 3 search engines now instead of 1" — X — https://x.com/codyschneider/status/2115186870527136153 (2026-10-27)
+253. "it is just CPU compute" / "it's a python script" — X — https://x.com/codyschneider/status/2115201934105722978 (2026-10-27)
+254. "now you own your TAM instead of renting it" — X — https://x.com/codyschneider/status/2115201934105722978 (2026-10-27)
+255. "you don't need a $200/mo semrush seat for any of this" — X — https://x.com/codyschneider/status/2115111377727570104 (2026-10-27)
+256. "a human media buyer checks the account twice a week. this checks it every single day" — X — https://x.com/codyschneider/status/2115156660079526395 (2026-10-27)

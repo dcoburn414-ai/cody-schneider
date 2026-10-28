@@ -89,3 +89,6 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 
 ### From public writing (2026-10-24 incremental)
 - Cost claims ("cents each", "$50+ per static ad") are his claims. Graphed CTAs and "get started for free" links are promotion.
+
+### From public writing (2026-10-28 incremental)
+- Results ($1,100→$250 cost per lead, ~100 clicks/day at 90 days, 'highest reply rates') are my own claims; the recurring 'get started for free' links and Graphed ad replies promote my company.
