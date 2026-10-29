@@ -309,3 +309,10 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 254. "now you own your TAM instead of renting it" — X — https://x.com/codyschneider/status/2115201934105722978 (2026-10-27)
 255. "you don't need a $200/mo semrush seat for any of this" — X — https://x.com/codyschneider/status/2115111377727570104 (2026-10-27)
 256. "a human media buyer checks the account twice a week. this checks it every single day" — X — https://x.com/codyschneider/status/2115156660079526395 (2026-10-27)
+
+257. "10,000 rows costs about the same as a burrito" — X — https://x.com/codyschneider/status/2115564368725155858 (2026-10-28)
+258. "that's it. that's the whole thing" — X — https://x.com/codyschneider/status/2115549234057380212 (2026-10-28)
+259. "pls stop overcomplicating google ads for saas" — X — https://x.com/codyschneider/status/2115534169799295192 (2026-10-28)
+260. "if they're still "auditing the stack" in week 3 you have a problem" — X — https://x.com/codyschneider/status/2115503926808137950 (2026-10-28)
+261. "anything running 30+ days is a winner. nobody keeps paying for a loser" — X — https://x.com/codyschneider/status/2115428401234206952 (2026-10-28)
+262. "linkedin's domain did the ranking for me" — X — https://x.com/codyschneider/status/2115458589854667038 (2026-10-28)

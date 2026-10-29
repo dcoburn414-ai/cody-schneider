@@ -92,3 +92,6 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 
 ### From public writing (2026-10-28 incremental)
 - Results ($1,100→$250 cost per lead, ~100 clicks/day at 90 days, 'highest reply rates') are my own claims; the recurring 'get started for free' links and Graphed ad replies promote my company.
+
+### From public writing (2026-10-29 incremental)
+- Results (#1 on Google in 38 minutes, 20k list in 6 months, 300k impressions at ~$3 CPM) are my own claims; the recurring 'get started for free' links and Graphed ad replies promote my company.
