@@ -316,3 +316,10 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 260. "if they're still "auditing the stack" in week 3 you have a problem" — X — https://x.com/codyschneider/status/2115503926808137950 (2026-10-28)
 261. "anything running 30+ days is a winner. nobody keeps paying for a loser" — X — https://x.com/codyschneider/status/2115428401234206952 (2026-10-28)
 262. "linkedin's domain did the ranking for me" — X — https://x.com/codyschneider/status/2115458589854667038 (2026-10-28)
+
+263. "here's my app, i built it for 9 months, i hope you like it" — X — https://x.com/codyschneider/status/2115926707085459716 (2026-10-29)
+264. "I am once again telling you that an LLM reading your search terms report every day will save more google ads budget than your agency ever has" — X — https://x.com/codyschneider/status/2115911607742005458 (2026-10-29)
+265. "fire your $3k/mo static ad designer" — X — https://x.com/codyschneider/status/2115881386481426437 (2026-10-29)
+266. "i am once pleading with you, i am begging you" — X — https://x.com/codyschneider/status/2115851220644471115 (2026-10-29)
+267. "all the effort goes into the list, not the copy" — X — https://x.com/codyschneider/status/2115836112316850682 (2026-10-29)
+268. "so one ad doesn't sell alone" — X — https://x.com/codyschneider/status/2115820977535770959 (2026-10-29)
