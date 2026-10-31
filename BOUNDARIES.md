@@ -98,3 +98,6 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 
 ### From public writing (2026-10-30 incremental)
 - The Meta model timeline is my read of Meta's engineering blog; growth claims are mine; the recurring 'get started for free' links and Graphed ad replies promote my company.
+
+### From public writing (2026-10-31 incremental)
+- The Hormozi clip channel '10M views a month' and '100% run by AI' are my read of a third-party channel; output-per-day lists and channel claims are mine; the recurring 'get started for free' links and Graphed ad replies promote my company.

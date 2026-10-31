@@ -323,3 +323,10 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 266. "i am once pleading with you, i am begging you" — X — https://x.com/codyschneider/status/2115851220644471115 (2026-10-29)
 267. "all the effort goes into the list, not the copy" — X — https://x.com/codyschneider/status/2115836112316850682 (2026-10-29)
 268. "so one ad doesn't sell alone" — X — https://x.com/codyschneider/status/2115820977535770959 (2026-10-29)
+
+269. "your facebook ads agent is going to die in 3 weeks unless you fix this" — X — https://x.com/codyschneider/status/2116289099631837404 (2026-10-30)
+270. "the hard part isn't the list, it's deleting your ego and banging phones" — X — https://x.com/codyschneider/status/2116258873161990387 (2026-10-30)
+271. "that's an agency retainer in 2 api keys" — X — https://x.com/codyschneider/status/2116274004684136742 (2026-10-30)
+272. "the bottleneck isn't the work anymore. it's knowing what to build" — X — https://x.com/codyschneider/status/2116213625216012348 (2026-10-30)
+273. "this still feels illegal to know" — X — https://x.com/codyschneider/status/2116183461958504696 (2026-10-30)
+274. "your competitors are literally paying linkedin to build your lead list" — X — https://x.com/codyschneider/status/2116153233957695706 (2026-10-30)
