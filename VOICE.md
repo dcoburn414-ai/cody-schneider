@@ -330,3 +330,10 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 272. "the bottleneck isn't the work anymore. it's knowing what to build" — X — https://x.com/codyschneider/status/2116213625216012348 (2026-10-30)
 273. "this still feels illegal to know" — X — https://x.com/codyschneider/status/2116183461958504696 (2026-10-30)
 274. "your competitors are literally paying linkedin to build your lead list" — X — https://x.com/codyschneider/status/2116153233957695706 (2026-10-30)
+
+275. "please stop overcomplicating gtm engineering" / "it's a postgres database with 3 tables" — X — https://x.com/codyschneider/status/2116530666871357747 (2026-10-31)
+276. "founders will spend $3k on a logo and $0 finding out what their customer actually wants" — X — https://x.com/codyschneider/status/2116636384194695301 (2026-10-31)
+277. "the logo teaches you nothing" — X — https://x.com/codyschneider/status/2116636384194695301 (2026-10-31)
+278. "i'm begging you stop running your seed dance videos through an ai upscaler" — X — https://x.com/codyschneider/status/2116560875679027384 (2026-10-31)
+279. "that's an agent. code with a thinking loop on a live data stream" — X — https://x.com/codyschneider/status/2116545757184442396 (2026-10-31)
+280. "high iq: make the page that answers what people search. make it good enough to link to. have an agent do it 500 times" — X — https://x.com/codyschneider/status/2116621284603818114 (2026-10-31)

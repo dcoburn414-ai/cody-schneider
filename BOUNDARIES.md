@@ -101,3 +101,6 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 
 ### From public writing (2026-10-31 incremental)
 - The Hormozi clip channel '10M views a month' and '100% run by AI' are my read of a third-party channel; output-per-day lists and channel claims are mine; the recurring 'get started for free' links and Graphed ad replies promote my company.
+
+### From public writing (2026-11-01 incremental)
+- Franchise CPL ($70→$16 FB, $82→$35 Google), '174 leads' and '3-5% book a demo' are my own client/company results; the recurring 'get started for free' links and Graphed ad replies promote my company.
