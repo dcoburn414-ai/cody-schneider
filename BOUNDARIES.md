@@ -104,3 +104,6 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 
 ### From public writing (2026-11-01 incremental)
 - Franchise CPL ($70→$16 FB, $82→$35 Google), '174 leads' and '3-5% book a demo' are my own client/company results; the recurring 'get started for free' links and Graphed ad replies promote my company.
+
+### From public writing (2026-11-02 incremental)
+- The '$150k to $300k' marketing engineer pay and the Gamma '700 keywords / 5.9k visits' example are my own claims; the recurring 'get started for free' links and Graphed ad replies promote my company. Parasite SEO is my tactic description, not advice to spam third-party platforms.

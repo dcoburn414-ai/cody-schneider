@@ -337,3 +337,10 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 278. "i'm begging you stop running your seed dance videos through an ai upscaler" — X — https://x.com/codyschneider/status/2116560875679027384 (2026-10-31)
 279. "that's an agent. code with a thinking loop on a live data stream" — X — https://x.com/codyschneider/status/2116545757184442396 (2026-10-31)
 280. "high iq: make the page that answers what people search. make it good enough to link to. have an agent do it 500 times" — X — https://x.com/codyschneider/status/2116621284603818114 (2026-10-31)
+
+281. "you see their roadmap before their customers do" — X — https://x.com/codyschneider/status/2117028946030059822 (2026-11-01)
+282. "the email stops feeling cold and they show up to the call already sold" — X — https://x.com/codyschneider/status/2117013834707730809 (2026-11-01)
+283. "gets paid $150k to $300k because one of them does a team's work" — X — https://x.com/codyschneider/status/2116998749327126808 (2026-11-01)
+284. "layering paid ads with website visitor de-anonymization feels like cheating" — X — https://x.com/codyschneider/status/2116983651590168633 (2026-11-01)
+285. "simple and it works" — X — https://x.com/codyschneider/status/2116938369045237994 (2026-11-01)
+286. "if your agency sends you a report made of screenshots from 6 tools that don't agree with each other, fire them" — X — https://x.com/codyschneider/status/2116893077449199707 (2026-11-01)
