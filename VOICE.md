@@ -344,3 +344,10 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 284. "layering paid ads with website visitor de-anonymization feels like cheating" — X — https://x.com/codyschneider/status/2116983651590168633 (2026-11-01)
 285. "simple and it works" — X — https://x.com/codyschneider/status/2116938369045237994 (2026-11-01)
 286. "if your agency sends you a report made of screenshots from 6 tools that don't agree with each other, fire them" — X — https://x.com/codyschneider/status/2116893077449199707 (2026-11-01)
+
+287. "making a product has become a commodity" / "distribution is now the only thing that matters" — X — https://x.com/codyschneider/status/2117300744080519454 (2026-11-02)
+288. "a little petri dish dish that's cozy, that has big hygge energy, that makes it capable to make graph go up and to the right" — X — https://x.com/codyschneider/status/2117300744080519454 (2026-11-02)
+289. "all marketing is now code and tokens" — X — https://x.com/codyschneider/status/2117270512430710899 (2026-11-02)
+290. "not some vibe revenue from the YC companies paying each other inflating their numbers" — X — https://x.com/codyschneider/status/2117256668102762864 (2026-11-02)
+291. "our investor eric bahn described us as a mullet" — X — https://x.com/codyschneider/status/2117256668102762864 (2026-11-02)
+292. "old way = basically google drive for enterprise, manual tagging, it sucks" / "and this is how you survive the saaspocalypse" — X — https://x.com/codyschneider/status/2117315812931321972 (2026-11-02)

@@ -107,3 +107,6 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 
 ### From public writing (2026-11-02 incremental)
 - The '$150k to $300k' marketing engineer pay and the Gamma '700 keywords / 5.9k visits' example are my own claims; the recurring 'get started for free' links and Graphed ad replies promote my company. Parasite SEO is my tactic description, not advice to spam third-party platforms.
+
+### From public writing (2026-11-03 incremental)
+- Graphed metrics (ARR $98K→$1.3M in 6 months, ACV $60K→$140K, 100+ paying self-serve customers in 9 days) and seed-raise posts are my own claims and fundraising promotion.
