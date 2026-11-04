@@ -351,3 +351,9 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 290. "not some vibe revenue from the YC companies paying each other inflating their numbers" — X — https://x.com/codyschneider/status/2117256668102762864 (2026-11-02)
 291. "our investor eric bahn described us as a mullet" — X — https://x.com/codyschneider/status/2117256668102762864 (2026-11-02)
 292. "old way = basically google drive for enterprise, manual tagging, it sucks" / "and this is how you survive the saaspocalypse" — X — https://x.com/codyschneider/status/2117315812931321972 (2026-11-02)
+
+293. "nobody wants you to know this but you can just cold email a 100,000 people in a month who want what you made" — X — https://x.com/codyschneider/status/2117648052777336889 (2026-11-03)
+294. "the new funnel is all agent managed now" / "all marketing is now CPU and inference" — X — https://x.com/codyschneider/status/2117663098555297938 (2026-11-03)
+295. "we are a mullet company" / "sillicon valley in the back, mainstreet in the front" — X — https://x.com/codyschneider/status/2117798980503675201 (2026-11-04)
+296. "every marketer is measured by "data driven outcomes"" / "none of them have the data" — X — https://x.com/codyschneider/status/2117798980503675201 (2026-11-04)
+297. "you can have a single software engineer market for a 200+ location business" / "this was impossible 6 months ago" — X — https://x.com/codyschneider/status/2117798980503675201 (2026-11-04)
