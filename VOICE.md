@@ -357,3 +357,8 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 295. "we are a mullet company" / "sillicon valley in the back, mainstreet in the front" — X — https://x.com/codyschneider/status/2117798980503675201 (2026-11-04)
 296. "every marketer is measured by "data driven outcomes"" / "none of them have the data" — X — https://x.com/codyschneider/status/2117798980503675201 (2026-11-04)
 297. "you can have a single software engineer market for a 200+ location business" / "this was impossible 6 months ago" — X — https://x.com/codyschneider/status/2117798980503675201 (2026-11-04)
+
+298. "you're a media company who makes product now" / "not a product company who makes media" / "anyone can build product now" / "so the only arbitrage left is distribution" — X — https://x.com/codyschneider/status/2118055718041366625 (2026-11-04)
+299. "the final frontier is the distribution problem, and everyone knows it" / "all marketing is now just code and tokens" / "all companies are now just media companies, if you don't do this you die" / "all discovery happens on social now" — X — https://x.com/codyschneider/status/2118144957458583796 (2026-11-05)
+300. "how to give your coding agent and whole team everything they need to do cold email" — X — https://x.com/codyschneider/status/2118040587534307540 (2026-11-04)
+301. "when you give any harness this, it is a top 1% marketer in the world suddenly for channels" — X — https://x.com/codyschneider/status/2118144957458583796 (2026-11-05)
