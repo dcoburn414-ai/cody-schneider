@@ -368,3 +368,8 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 304. "no wants me to tell you this but you can steal your competitors deal flow from linkedin" / "when people engage with your competitors on linkedin, they are signaling they are in a buying cycle with them" — X — https://x.com/codyschneider/status/2118478521370612030 (2026-11-05)
 305. "you can do total addressable market mapping without clay for like $100" — X — https://x.com/codyschneider/status/2118576621779136668 (2026-11-06)
 306. "graphed is the whole stack" / "the value is the enrichment and all the infra" / "or don't and monkey patch it together and maintain it" — X — https://x.com/codyschneider/status/2118590482523844814 (2026-11-06)
+
+307. "I'm selling a cloud to marketers, I'm selling them compute" / "They replace the agency they literally despise with code and tokens" / "product is commodity" / "distribution is everything" / "i'm going to go touch grass" — X — https://x.com/codyschneider/status/2118877087927009620 (2026-11-07)
+308. "It was like one of those cocaine rats that just keeps hitting the button until it dies from exhaustion" / "reads only happen from warehouse and the api is only used for writes" — X — https://x.com/codyschneider/status/2118659670642471377 (2026-11-06)
+309. "you're being lied to by big seed dance" / "It doesn't need to cost $50 to make a UGC talking head video" / "You can do it for $4.20" — X — https://x.com/codyschneider/status/2118689904540442831 (2026-11-06)
+310. "But what if I told you there are people that actually want to be cold emailed by you" — X — https://x.com/codyschneider/status/2118704961475203378 (2026-11-06)
