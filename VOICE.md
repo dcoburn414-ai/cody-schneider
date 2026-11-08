@@ -373,3 +373,8 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 308. "It was like one of those cocaine rats that just keeps hitting the button until it dies from exhaustion" / "reads only happen from warehouse and the api is only used for writes" — X — https://x.com/codyschneider/status/2118659670642471377 (2026-11-06)
 309. "you're being lied to by big seed dance" / "It doesn't need to cost $50 to make a UGC talking head video" / "You can do it for $4.20" — X — https://x.com/codyschneider/status/2118689904540442831 (2026-11-06)
 310. "But what if I told you there are people that actually want to be cold emailed by you" — X — https://x.com/codyschneider/status/2118704961475203378 (2026-11-06)
+
+311. "the 100x marketer is now more high leverage than the 100x engineer" / "all marketing is now just code and tokens" — X — https://x.com/codyschneider/status/2119173056673309041 (2026-11-07)
+312. "you need to feed the beast of Facebook ads and drama to stay competitive" — X — https://x.com/codyschneider/status/2119188160437452810 (2026-11-07)
+313. "If you do nothing else today, do this" / "Make an ad spy tool that tracks your whole industry" — X — https://x.com/codyschneider/status/2119203266923794627 (2026-11-07)
+314. "more volume papi" / "its a different algo entirely than main" — X — https://x.com/codyschneider/status/2119322643975598266 (2026-11-08)
