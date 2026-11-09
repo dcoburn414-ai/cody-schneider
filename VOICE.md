@@ -378,3 +378,6 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 312. "you need to feed the beast of Facebook ads and drama to stay competitive" — X — https://x.com/codyschneider/status/2119188160437452810 (2026-11-07)
 313. "If you do nothing else today, do this" / "Make an ad spy tool that tracks your whole industry" — X — https://x.com/codyschneider/status/2119203266923794627 (2026-11-07)
 314. "more volume papi" / "its a different algo entirely than main" — X — https://x.com/codyschneider/status/2119322643975598266 (2026-11-08)
+
+315. "claude code is the best marketer in the world if you put it in the right petri dish" / "miss one and you built a chatbot" / "get all 4 and you built a marketer" — X — https://x.com/codyschneider/status/2119444959862346029 (2026-11-08)
+316. "now its code and tokens" / "which step would you automate first" — X — https://x.com/codyschneider/status/2119429831163027708 (2026-11-08)
