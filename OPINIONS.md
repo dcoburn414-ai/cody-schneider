@@ -497,3 +497,7 @@ Operator opinions distilled from Cody’s labeled public interviews (Napier/Swel
 ### From public writing (2026-11-09 incremental)
 - Claude Code becomes a marketer with 4 things: truth (hourly live business data in a warehouse, not a pasted CSV), hands (API keys to ad accounts/CMS/CRM), a home (deployed 24/7, not a laptop), tools (seedance, waterfall enrichment, scrapers) — miss one and it's a chatbot (X 2026-11-08).
 - Brand-ads agent workflow: scrape Reddit pain points -> static ads (gpt image 2 via kie) -> seedance avatar videos -> fal transcription + motion graphics -> upload to Meta/Google via API -> track to revenue in the warehouse; replaces researcher, designer, editor, copywriter, buyer, analyst (X 2026-11-08).
+
+### From public writing (2026-11-10 incremental)
+- All marketing is now code and tokens: one agent replaces designer, copywriter, UGC creator, editor and motion designer; long-form editing crossed the line (Tesseract one-shots a 90-minute podcast); you can make static/UGC ads in minutes by giving Claude Code the skills (X 2026-11-09; Greg Isenberg pod).
+- Graphed is the marketing engineering cloud: engineers build AI marketing agents for established companies on Graphed's cloud; he is in SF closing the seed round (X 2026-11-09).

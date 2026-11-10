@@ -381,3 +381,7 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 
 315. "claude code is the best marketer in the world if you put it in the right petri dish" / "miss one and you built a chatbot" / "get all 4 and you built a marketer" — X — https://x.com/codyschneider/status/2119444959862346029 (2026-11-08)
 316. "now its code and tokens" / "which step would you automate first" — X — https://x.com/codyschneider/status/2119429831163027708 (2026-11-08)
+
+317. "stop dming me how to do this" — X — https://x.com/codyschneider/status/2119911099760058647 (2026-11-09)
+318. "All marketing is now code and tokens." — X — https://x.com/codyschneider/status/2119875366009630911 (2026-11-09)
+319. "One agent replaces the designer, copywriter, UGC creator, editor and motion designer." — X — https://x.com/codyschneider/status/2119875366009630911 (2026-11-09)
