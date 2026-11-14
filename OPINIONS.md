@@ -501,3 +501,9 @@ Operator opinions distilled from Cody’s labeled public interviews (Napier/Swel
 ### From public writing (2026-11-10 incremental)
 - All marketing is now code and tokens: one agent replaces designer, copywriter, UGC creator, editor and motion designer; long-form editing crossed the line (Tesseract one-shots a 90-minute podcast); you can make static/UGC ads in minutes by giving Claude Code the skills (X 2026-11-09; Greg Isenberg pod).
 - Graphed is the marketing engineering cloud: engineers build AI marketing agents for established companies on Graphed's cloud; he is in SF closing the seed round (X 2026-11-09).
+
+### From public writing (2026-11-12 incremental)
+- A marketing engineer who isn't shipping code is ngmi; he built a UGC avatar video app in 48 hours with 65 pre-installed avatars, $4 per 30 seconds, $10 to onboard (X 2026-11-11).
+
+### From public writing (2026-11-14 incremental)
+- Marketing SaaS subscriptions are being replaced by open-source, agent-built tools with pay-as-you-go pricing (Clay, Higgsfield called out); software is malleable, tell the coding agent to fix it (X 2026-11-13).

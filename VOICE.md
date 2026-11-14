@@ -385,3 +385,17 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 317. "stop dming me how to do this" — X — https://x.com/codyschneider/status/2119911099760058647 (2026-11-09)
 318. "All marketing is now code and tokens." — X — https://x.com/codyschneider/status/2119875366009630911 (2026-11-09)
 319. "One agent replaces the designer, copywriter, UGC creator, editor and motion designer." — X — https://x.com/codyschneider/status/2119875366009630911 (2026-11-09)
+
+320. "100+ anon linkedin pages that you post motion graphic slop to" — X — https://x.com/codyschneider/status/2120262260912533770 (2026-11-10)
+321. "everything on the platform costs inference so we have to do it this way" — X — https://x.com/codyschneider/status/2120322409924587880 (2026-11-11)
+
+### From public writing (2026-11-12 incremental)
+322. "if your marketing engineer isn't shipping code they're ngmi" — X — https://x.com/codyschneider/status/2120532055691870545 (2026-11-11)
+323. "spent the last 48 hours building a ugc avatar video app for you" — X — https://x.com/codyschneider/status/2120584469862359342 (2026-11-11)
+324. "65 avatars pre-installed or add your own with one frame" — X — https://x.com/codyschneider/status/2120584469862359342 (2026-11-11)
+325. "cost is $4 for 30 seconds" — X — https://x.com/codyschneider/status/2120656818485805193 (2026-11-11)
+
+326. "all marketing saas is dead and I am the horseman of death" / "I'll build an open source one for you today" — X — https://x.com/codyschneider/status/2121317207581802625 (2026-11-13)
+327. "cancel your clay subscription" / "why are you paying a 20x markup on API calls" — X — https://x.com/codyschneider/status/2121289523858440262 (2026-11-13)
+328. "higgsfield is robbing you" — X — https://x.com/codyschneider/status/2121302191709229359 (2026-11-13)
+329. "just tell claude code to fix it lol" / "it's malleable software" — X — https://x.com/codyschneider/status/2121293921263444051 (2026-11-13)
