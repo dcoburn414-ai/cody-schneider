@@ -507,3 +507,7 @@ Operator opinions distilled from Cody’s labeled public interviews (Napier/Swel
 
 ### From public writing (2026-11-14 incremental)
 - Marketing SaaS subscriptions are being replaced by open-source, agent-built tools with pay-as-you-go pricing (Clay, Higgsfield called out); software is malleable, tell the coding agent to fix it (X 2026-11-13).
+
+### From public writing (2026-11-17 incremental)
+- Launched Graphed, 'The Marketing Engineering Cloud' (live data + tool router + cloud hosting for coding agents); says marketing software and middle marketing work are dead and marketing engineer will be a top-paying 2027 job (X 2026-11-15/16).
+- Keeps telling people to cancel paid tools (Clay, HeyGen, Higgsfield, Foreplay/Motion/Atria) in favor of open-source agent-built replacements (X 2026-11-15/16).

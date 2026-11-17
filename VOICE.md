@@ -399,3 +399,9 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 327. "cancel your clay subscription" / "why are you paying a 20x markup on API calls" — X — https://x.com/codyschneider/status/2121289523858440262 (2026-11-13)
 328. "higgsfield is robbing you" — X — https://x.com/codyschneider/status/2121302191709229359 (2026-11-13)
 329. "just tell claude code to fix it lol" / "it's malleable software" — X — https://x.com/codyschneider/status/2121293921263444051 (2026-11-13)
+
+330. "every marketing software and GTM software is already dead" — X — https://x.com/codyschneider/status/2122374229777617328 (2026-11-16)
+331. "one of the highest paying jobs in 2027 will be marketing engineer" — X — https://x.com/codyschneider/status/2122102411909063146 (2026-11-15)
+332. "all of the middle work in marketing is gone" — X — https://x.com/codyschneider/status/2122117449701007525 (2026-11-16)
+333. "motion app just increased their starter prices from $750 to $999/month" / "which is insane" — X — https://x.com/codyschneider/status/2122026894597984279 (2026-11-15)
+334. "blocked for AI slop" — X — https://x.com/codyschneider/status/2122082019203305876 (2026-11-15)
