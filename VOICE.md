@@ -405,3 +405,11 @@ GTM engineer–founder voice: fast, tactical, lowercase-friendly on X, story →
 332. "all of the middle work in marketing is gone" — X — https://x.com/codyschneider/status/2122117449701007525 (2026-11-16)
 333. "motion app just increased their starter prices from $750 to $999/month" / "which is insane" — X — https://x.com/codyschneider/status/2122026894597984279 (2026-11-15)
 334. "blocked for AI slop" — X — https://x.com/codyschneider/status/2122082019203305876 (2026-11-15)
+
+### From public writing (2026-11-24 incremental)
+335. "please stop paying for an ad spy tool" — X — https://x.com/codyschneider/status/2124910904336666767 (2026-11-23)
+336. "the 100x marketer is real" — X — https://x.com/codyschneider/status/2123853910154608856 (2026-11-20)
+337. "skill files are the moat now" — X — https://x.com/codyschneider/status/2124216338075828437 (2026-11-21)
+338. "please stop overcomplicating gtm engineering" / "it's one postgres database and 3 tables" — X — https://x.com/codyschneider/status/2123808679325565392 (2026-11-20)
+339. "wE jUsT kiLLeD CLAY .COM" / "ok but for real, i spent 48 hours building you an enrichment table" — X — https://x.com/codyschneider/status/2124895907934068975 (2026-11-23)
+340. "they won't pay $3k for hours anymore" / "they will pay $3k for results from an agency that runs on agents" — X — https://x.com/codyschneider/status/2124276738427416601 (2026-11-21)

@@ -511,3 +511,9 @@ Operator opinions distilled from Cody’s labeled public interviews (Napier/Swel
 ### From public writing (2026-11-17 incremental)
 - Launched Graphed, 'The Marketing Engineering Cloud' (live data + tool router + cloud hosting for coding agents); says marketing software and middle marketing work are dead and marketing engineer will be a top-paying 2027 job (X 2026-11-15/16).
 - Keeps telling people to cancel paid tools (Clay, HeyGen, Higgsfield, Foreplay/Motion/Atria) in favor of open-source agent-built replacements (X 2026-11-15/16).
+
+### From public writing (2026-11-24 incremental)
+- The '100x marketer' is a normal marketer with a coding agent that has truth (live data from ad platforms, GA4, Stripe, HubSpot in one warehouse), tools (paid APIs) and a place to run; every team member becomes a marketing engineer by turning each marketing job into a skill file (X 2026-11-20/21/23).
+- Skill files are the new agency moat; agencies will not be paid for hours but for results from agent-run operations; client reporting and media-buying 'middle work' should be automated (X 2026-11-20/21).
+- GTM engineering is one postgres database with three tables (accounts, people, signals) filled by a morning cron job (X 2026-11-20).
+- Daily open-source 'kill the SaaS' drops: ad spy tool (vs Foreplay/Motion/Atria), waterfall enrichment (vs Clay), UGC avatar videos with Seedance 2.5 at about $4 each (vs HeyGen/Higgsfield); posts the Graphed CTA repeatedly in self-replies (X 2026-11-22/23).
